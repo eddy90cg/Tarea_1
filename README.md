@@ -55,10 +55,8 @@ Diagrama Esquemático de la Figura
 **2-1 Revisión de la teoría atómica**
 
 1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
-
--1 metro cúbico de alambre
-
--Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
+   - 1 metro cúbico de alambre
+   -Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
 
 2._Dos cargas están separadas por cierta distancia, como en la figura 2-32, ¿Cómo se ve afectada la fuerza entre ella si
 
