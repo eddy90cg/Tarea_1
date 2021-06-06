@@ -4,7 +4,7 @@
 
 #### INTEGRANTES: EDISON CADENA - STEVEN FLORES - MATEO VINUEZA - WILLIAM MOSQUERA
 
-1. OBJETIVOS
+**1. OBJETIVOS**
 
 Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
 El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
@@ -24,7 +24,7 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-2. MARCO TEÓRICO (RESUMEN)
+**2. MARCO TEÓRICO (RESUMEN)**
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
@@ -36,7 +36,7 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 
 Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 56._ Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
@@ -117,17 +117,17 @@ Diagrama Esquemático de la Figura
 	Dado el voltaje de 12 V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
 
 
-4. VIDEO
+**4. VIDEO**
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
 En el video se debe explicar 4 ejercicios o problemas.
 
 
-5. CONCLUSIONES
+**5. CONCLUSIONES**
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-6. BIBLIOGRAFÍA
+**6. BIBLIOGRAFÍA**
 
 Emplear normas APA.
 
