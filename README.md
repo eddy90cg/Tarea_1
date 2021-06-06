@@ -38,7 +38,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-56._ Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
+56. Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.1-14.png)
 
@@ -46,7 +46,7 @@ Diagrama Esquemático de la Figura
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Diagrama_Ejer_56.png)
 
-57._ Elabore un diagrama esquemático para una simple linterna
+57. Elabore un diagrama esquemático para una simple linterna
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Diagrama_Ejer_57.png)
 
