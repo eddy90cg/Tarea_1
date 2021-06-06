@@ -48,6 +48,8 @@ Diagrama Esquemático de la Figura
 
 57._ Elabore un diagrama esquemático para una simple linterna
 
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Diagrama_Ejer_57.png)
+
 **Capítulo 2: Voltaje y Corriente**
 
 **2-1 Revisión de la teoría atómica**
