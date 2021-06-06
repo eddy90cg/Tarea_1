@@ -38,8 +38,8 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+56. Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
+![]
 
 
 4. VIDEO
