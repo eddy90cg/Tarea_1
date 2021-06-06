@@ -55,10 +55,12 @@ Diagrama Esquemático de la Figura
 **2-1 Revisión de la teoría atómica**
 
 1._ ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
+
 -1 metro cúbico de alambre
 -Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
 
 2._Dos cargas están separadas por cierta distancia, como en la figura 2-32, ¿Cómo se ve afectada la fuerza entre ella si
+
 -Se duplica la magnitud de ambas cargas?
 -Se triplica la distancia entre ella?
 
@@ -68,18 +70,21 @@ Diagrama Esquemático de la Figura
 
 
 5._Literales
+
 -¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
 -Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
 -¿Qué hace que un material sea un buen aislante?
 -Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
 
 6._Literales
+
 -Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
 -¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
 
 **2-2 La unidad de carga eléctrica: el coulumb**
 
 7._Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es atracción y cuando es repulsión.
+
 -Una carga de +1 μC y una carga de +7 μC, separadas 10 mm
 -Q_1=8 μC y Q_2=-4 μC, separados 12 cm
 -Dos electrones separados 12×〖10〗^(-8)  m
