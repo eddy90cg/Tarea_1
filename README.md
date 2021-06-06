@@ -58,69 +58,65 @@ Diagrama Esquemático de la Figura
    - 1 metro cúbico de alambre
     - Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
 
-2._Dos cargas están separadas por cierta distancia, como en la figura 2-32, ¿Cómo se ve afectada la fuerza entre ella si
+2. Dos cargas están separadas por cierta distancia, como en la figura 2-32, ¿Cómo se ve afectada la fuerza entre ella si
+   - Se duplica la magnitud de ambas cargas?
+    - Se triplica la distancia entre ella?
 
--Se duplica la magnitud de ambas cargas?
--Se triplica la distancia entre ella?
+3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
 
-3._Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
-
-4._Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
+4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
 
-5._Literales
+5. Literales
+   - ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
+    - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
+     - ¿Qué hace que un material sea un buen aislante?
+      - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
 
--¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
--Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
--¿Qué hace que un material sea un buen aislante?
--Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
-
-6._Literales
-
--Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
--¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
+6. Literales
+   - Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
+    - ¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
 
 **2-2 La unidad de carga eléctrica: el coulumb**
 
-7._Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es atracción y cuando es repulsión.
+7. Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es atracción y cuando es repulsión.
+   - Una carga de +1 μC y una carga de +7 μC, separadas 10 mm
+    - Q_1=8 μC y Q_2=-4 μC, separados 12 cm
+     - Dos electrones separados 12×〖10〗^(-8)  m
+      - Un electrón y un protón separados 5.3×〖10〗^(-11)  m
+       - Un electrón y neutrón separados 5.7×〖10〗^(-11)  m
 
--Una carga de +1 μC y una carga de +7 μC, separadas 10 mm
--Q_1=8 μC y Q_2=-4 μC, separados 12 cm
--Dos electrones separados 12×〖10〗^(-8)  m
--Un electrón y un protón separados 5.3×〖10〗^(-11)  m
--Un electrón y neutrón separados 5.7×〖10〗^(-11)  m
+8. ¿Qué significado tiene decir que un cuerpo esta “cargado”?
 
-8._¿Qué significado tiene decir que un cuerpo esta “cargado”?
+9. La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180 N. Si Q_1=4 μC, ¿Cuánto vale Q_2?, ¿la fuerza es de atracción o de repulsión?
 
-9._La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180 N. Si Q_1=4 μC, ¿Cuánto vale Q_2?, ¿la fuerza es de atracción o de repulsión?
+10. Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿Cuál sería la fuerza entre ellas en newtons?, ¿y en toneladas?
 
-10._Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿Cuál sería la fuerza entre ellas en newtons?, ¿y en toneladas?
+11. La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q_2  = 5Q_1, determine las cargas y su posible signo
 
-11._La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q_2  = 5Q_1, determine las cargas y su posible signo
+12. ¿Cuántos electrones representa una carga de 1.63 μC?
 
-12._¿Cuántos electrones representa una carga de 1.63 μC?
+13. Determina la carga en 19×〖10〗^13 electrones
 
-13._Determina la carga en 19×〖10〗^13 electrones
+14. Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 μC. ¿Cuántos electrones se le agregaron?
 
-14._Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 μC. ¿Cuántos electrones se le agregaron?
+15. A una placa de metal se le han adicionado 14.6×〖10〗^13 electrones y posteriormente se le agrega una carga de 1.3 μC. Si la carga final en la placa es de 5.6 μC, ¿Cuál fue la carga inicial?
 
-15._A una placa de metal se le han adicionado 14.6×〖10〗^13 electrones y posteriormente se le agrega una carga de 1.3 μC. Si la carga final en la placa es de 5.6 μC, ¿Cuál fue la carga inicial?
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
 
-16._Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿Cuál es el voltaje de la batería?
 
-17._Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿Cuál es el voltaje de la batería?
+18. Si se requiere 600 J de energía para mover 9.36×〖10〗^19 electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
 
-18._Si se requiere 600 J de energía para mover 9.36×〖10〗^19 electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
+19. Si se requiere 1.2kJ de energía para mover 500 mC de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
 
-19._Si se requiere 1.2kJ de energía para mover 500 mC de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
+20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de una lámpara de la figura 2-23?
 
-20._¿Cuánta energía se requiere para mover 20 mC de carga a través de una lámpara de la figura 2-23?
+21. ¿Cuánta energía adquiere una carga de 0.5 μC conforme se mueve a través de una diferencia de potencial de 8.5kV?
 
-21._¿Cuánta energía adquiere una carga de 0.5 μC conforme se mueve a través de una diferencia de potencial de 8.5kV?
+22. Si el voltaje entre dos puntos de 100 V, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
 
-22._Si el voltaje entre dos puntos de 100 V, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
-
-23._Dado el voltaje de 12 V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+23. Dado el voltaje de 12 V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
 
 
 # 4. VIDEO
