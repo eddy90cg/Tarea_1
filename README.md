@@ -48,9 +48,9 @@ Diagrama Esquemático de la Figura
 
 57._ Elabore un diagrama esquemático para una simple linterna
 
-**Capítulo 2: Voltaje y Corriente
+**Capítulo 2: Voltaje y Corriente**
 
-**2-1 Revisión de la teoría atómica
+**2-1 Revisión de la teoría atómica**
 
 	¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
 	1 metro cúbico de alambre
@@ -75,7 +75,7 @@ Diagrama Esquemático de la Figura
 	Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
 	¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
 
-**2-2 La unidad de carga eléctrica: el coulumb
+**2-2 La unidad de carga eléctrica: el coulumb**
 
 	Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es atracción y cuando es repulsión.
 	Una carga de +1 μC y una carga de +7 μC, separadas 10 mm
