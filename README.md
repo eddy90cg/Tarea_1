@@ -43,6 +43,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.1-14.png)
 
 Diagrama Esquemático de la Figura
+
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Diagrama_Ejer_56.png)
 
 
