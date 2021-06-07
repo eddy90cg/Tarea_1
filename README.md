@@ -94,35 +94,35 @@ Diagrama Esquemático de la Figura
 
 8. ¿Qué significado tiene decir que un cuerpo esta “cargado”?
 
-9. La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de 180 N. Si Q_1=4 μC, ¿Cuánto vale Q_2?, ¿la fuerza es de atracción o de repulsión?
+9. La fuerza entre dos cargas, una positiva y una negativa, separadas <img src="https://latex.codecogs.com/svg.latex?2\&space;cm" title="2\ cm" /> es de <img src="https://latex.codecogs.com/svg.latex?180\&space;N" title="180\ N" />. Si <img src="https://latex.codecogs.com/svg.latex?Q_1&space;=&space;4\&space;\mu&space;C" title="Q_1 = 4\ \mu C" />, ¿Cuánto vale <img src="https://latex.codecogs.com/svg.latex?Q_2" title="Q_2" />?, ¿la fuerza es de atracción o de repulsión?
 
-10. Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿Cuál sería la fuerza entre ellas en newtons?, ¿y en toneladas?
+10. Si se pudiera colocar una carga de <img src="https://latex.codecogs.com/svg.latex?1\&space;C" title="1\ C" /> en cada uno de dos cuerpos que están separados <img src="https://latex.codecogs.com/svg.latex?25\&space;cm" title="25\ cm" /> de centro a centro, ¿Cuál sería la fuerza entre ellas en newtons?, ¿y en toneladas?
 
-11. La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q_2  = 5Q_1, determine las cargas y su posible signo
+11. La fuerza de repulsión entre dos cargas separadas <img src="https://latex.codecogs.com/svg.latex?50\&space;cm" title="50\ cm" /> es de <img src="https://latex.codecogs.com/svg.latex?0.02\&space;N" title="0.02\ N" />. Si <img src="https://latex.codecogs.com/svg.latex?Q_2&space;=&space;5Q_1" title="Q_2 = 5Q_1" />, determine las cargas y su posible signo
 
-12. ¿Cuántos electrones representa una carga de 1.63 μC?
+12. ¿Cuántos electrones representa una carga de <img src="https://latex.codecogs.com/svg.latex?1.63\&space;\mu&space;C" title="1.63\ \mu C" />?
 
-13. Determina la carga en 19×〖10〗^13 electrones
+13. Determina la carga en <img src="https://latex.codecogs.com/svg.latex?19\times&space;10^{13}" title="19\times 10^{13}" /> electrones
 
-14. Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 μC. ¿Cuántos electrones se le agregaron?
+14. Una placa de metal eléctricamente neutra adquiere una carga negativa de <img src="https://latex.codecogs.com/svg.latex?47\&space;\mu&space;C" title="47\ \mu C" />. ¿Cuántos electrones se le agregaron?
 
-15. A una placa de metal se le han adicionado 14.6×〖10〗^13 electrones y posteriormente se le agrega una carga de 1.3 μC. Si la carga final en la placa es de 5.6 μC, ¿Cuál fue la carga inicial?
+15. A una placa de metal se le han adicionado <img src="https://latex.codecogs.com/svg.latex?14.6&space;\times&space;10^{13}" title="14.6 \times 10^{13}" /> electrones y posteriormente se le agrega una carga de <img src="https://latex.codecogs.com/svg.latex?1.3\&space;\mu&space;C" title="1.3\ \mu C" />. Si la carga final en la placa es de <img src="https://latex.codecogs.com/svg.latex?5.6\&space;\mu&space;C" title="5.6\ \mu C" />, ¿Cuál fue la carga inicial?
 
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
 
-17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿Cuál es el voltaje de la batería?
+17. Si se requieren <img src="https://latex.codecogs.com/svg.latex?360\&space;joules" title="360\ joules" /> de energía para transferir <img src="https://latex.codecogs.com/svg.latex?15\&space;C" title="15\ C" /> de carga a través de la lámpara de la figura 2-1, ¿Cuál es el voltaje de la batería?
 
-18. Si se requiere 600 J de energía para mover 9.36×〖10〗^19 electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
+18. Si se requiere <img src="https://latex.codecogs.com/svg.latex?600\&space;J" title="600\ J" /> de energía para mover <img src="https://latex.codecogs.com/svg.latex?9.36&space;\times&space;10^{19}" title="9.36 \times 10^{19}" /> electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
 
-19. Si se requiere 1.2kJ de energía para mover 500 mC de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
+19. Si se requiere <img src="https://latex.codecogs.com/svg.latex?1.2\&space;kJ" title="1.2\ kJ" /> de energía para mover <img src="https://latex.codecogs.com/svg.latex?500\&space;mC" title="500\ mC" /> de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
 
-20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de una lámpara de la figura 2-23?
+20. ¿Cuánta energía se requiere para mover <img src="https://latex.codecogs.com/svg.latex?20\&space;mC" title="20\ mC" /> de carga a través de una lámpara de la figura 2-23?
 
-21. ¿Cuánta energía adquiere una carga de 0.5 μC conforme se mueve a través de una diferencia de potencial de 8.5kV?
+21. ¿Cuánta energía adquiere una carga de <img src="https://latex.codecogs.com/svg.latex?0.5\&space;\mu&space;C" title="0.5\ \mu C" /> conforme se mueve a través de una diferencia de potencial de <img src="https://latex.codecogs.com/svg.latex?8.5\&space;kV" title="8.5\ kV" />?
 
-22. Si el voltaje entre dos puntos de 100 V, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
+22. Si el voltaje entre dos puntos de <img src="https://latex.codecogs.com/svg.latex?100\&space;V" title="100\ V" />, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
 
-23. Dado el voltaje de 12 V para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+23. Dado el voltaje de <img src="https://latex.codecogs.com/svg.latex?12\&space;V" title="12\ V" /> para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren <img src="https://latex.codecogs.com/svg.latex?57\&space;J" title="57\ J" /> de energía para moverla?
 
 
 # 4. VIDEO
