@@ -61,8 +61,8 @@ Diagrama Esquemático de la Figura
 2. Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre ella si
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-31.png)
-  - Se duplica la magnitud de ambas cargas?
-   - Se triplica la distancia entre ella?
+   - Se duplica la magnitud de ambas cargas?
+    - Se triplica la distancia entre ella?
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
 
