@@ -42,7 +42,6 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.1-14.png)
-<p>Figura 1-14</p>
 
 Diagrama Esquemático de la Figura
 
