@@ -86,11 +86,11 @@ Diagrama Esquemático de la Figura
 **2-2 La unidad de carga eléctrica: el coulumb**
 
 7. Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es atracción y cuando es repulsión.
-   - Una carga de +1 μC y una carga de +7 μC, separadas 10 mm
-    - Q_1=8 μC y Q_2=-4 μC, separados 12 cm
-     - Dos electrones separados 12×〖10〗^(-8)  m
-      - Un electrón y un protón separados 5.3×〖10〗^(-11)  m
-       - Un electrón y neutrón separados 5.7×〖10〗^(-11)  m
+   - Una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;1\&space;\mu&space;C" title="+1\ \mu C" /> y una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;7\&space;\mu&space;C" title="+7\ \mu C" />, separadas <img src="https://latex.codecogs.com/svg.latex?10\&space;mm" title="10\ mm" />
+    - <img src="https://latex.codecogs.com/svg.latex?Q_1&space;=&space;8\&space;\mu&space;C" title="Q_1 = 8\ \mu C" /> y <img src="https://latex.codecogs.com/svg.latex?Q_2&space;=&space;-4\&space;\mu&space;C" title="Q_2 = -4\ \mu C" />, separados <img src="https://latex.codecogs.com/svg.latex?12\&space;cm" title="12\ cm" />
+     - Dos electrones separados <img src="https://latex.codecogs.com/svg.latex?12\times&space;10^{-8}\&space;m" title="12\times 10^{-8}\ m" />
+      - Un electrón y un protón separados <img src="https://latex.codecogs.com/svg.latex?5.3\times&space;10^{-11}\&space;m" title="5.3\times 10^{-11}\ m" />
+       - Un electrón y neutrón separados <img src="https://latex.codecogs.com/svg.latex?5.7\times&space;10^{-11}\&space;m" title="5.7\times 10^{-11}\ m" />
 
 8. ¿Qué significado tiene decir que un cuerpo esta “cargado”?
 
