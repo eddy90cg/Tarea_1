@@ -120,6 +120,8 @@ Diagrama Esquemático de la Figura
 
 20. ¿Cuánta energía se requiere para mover <img src="https://latex.codecogs.com/svg.latex?20\&space;mC" title="20\ mC" /> de carga a través de una lámpara de la figura 2-23?
 
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-23.png)
+
 21. ¿Cuánta energía adquiere una carga de <img src="https://latex.codecogs.com/svg.latex?0.5\&space;\mu&space;C" title="0.5\ \mu C" /> conforme se mueve a través de una diferencia de potencial de <img src="https://latex.codecogs.com/svg.latex?8.5\&space;kV" title="8.5\ kV" />?
 
 22. Si el voltaje entre dos puntos de <img src="https://latex.codecogs.com/svg.latex?100\&space;V" title="100\ V" />, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
