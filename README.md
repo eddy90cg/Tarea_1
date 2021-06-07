@@ -192,7 +192,15 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 
 34. ¿Qué se entiende por cd?, ¿y por ca?
 
-35. 
+35. Considere tres baterías conectadas como en la figura 2-33.
+    a. Si E1 = 1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale Et?
+    b. Si se invierte la conexión a la fuente 3, ¿ Cuánto vale Et? 
+ 
+36. ¿Cómo se carga una batería secundaria? haga un bosquejo. ¿Se puede cargar una batería primaria?
+
+37. Una batería especifica en 1 400 mAh suministra 28 mA a una carga. ¿ Cúanto tiempo se espera que dure? 
+
+38.
 
     
 
