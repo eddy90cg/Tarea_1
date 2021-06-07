@@ -104,6 +104,7 @@ Demuestre que 1 hp = 746 W.
 ![20](https://user-images.githubusercontent.com/84453557/121058909-7f497e00-c786-11eb-9b41-87def47b7690.png)
 
 21.	Exprese cada una de las siguientes cantidades en notación de potencias de 10 con un digito diferente de cero a la izquierda del punto decimal.
+
 ![21](https://user-images.githubusercontent.com/84453557/121058917-81134180-c786-11eb-96b1-3c521677dcdb.png)
 
 22.	Exprese las respuestas de cada una de las siguientes cantidades en notación científica.
