@@ -58,11 +58,9 @@ Diagrama Esquemático de la Figura
    - 1 metro cúbico de alambre
     - Un alambre de cobre de 5 metros de longitud cuyo diámetro es <img src="https://latex.codecogs.com/svg.latex?0.163&space;cm" title="0.163 cm" />
 
-2. Dos cargas están separadas por cierta distancia, como en la figura 2-31
+2. Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre ella si
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-31.png)
-
-¿Cómo se ve afectada la fuerza entre ella si
   - Se duplica la magnitud de ambas cargas?
    - Se triplica la distancia entre ella?
 
