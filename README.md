@@ -61,6 +61,13 @@ Diagrama Esquemático de la Figura
      <img src="https://latex.codecogs.com/svg.latex?1\&space;m^3&space;=&space;100\&space;cm^3&space;\\&space;100\&space;cm^3&space;*&space;10^{23}&space;=&space;1\times10^{25}" title="1\ m^3 = 100\ cm^3 \\ 100\ cm^3 * 10^{23} = 1\times10^{25}" /> electrones libres.
      
     * Un alambre de cobre de 5 metros de longitud cuyo diámetro es <img src="https://latex.codecogs.com/svg.latex?0.163\&space;cm" title="0.163\ cm" />
+      Primero obtenemos el volumen del cable teniendo en cuenta que es un clindro de base circular
+      
+      <img src="https://latex.codecogs.com/svg.latex?Vc&space;=&space;\pi&space;r^2&space;h&space;\\&space;Vc&space;=&space;\pi&space;(0.163)&space;(500)&space;\\&space;Vc&space;=&space;256.04\&space;cm^3" title="Vc = \pi r^2 h \\ Vc = \pi (0.163) (500) \\ Vc = 256.04\ cm^3" />
+
+      Una vez obtenido realizamos la respectiva multiplicación:
+      
+      <img src="https://latex.codecogs.com/svg.latex?256.04\&space;cm^3&space;*&space;10^{23}&space;=&space;2.5604&space;\times&space;10^{25}" title="256.04\ cm^3 * 10^{23} = 2.5604 \times 10^{25}" /> electrones libres.
 
 2. Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre ella si
    * Se duplica la magnitud de ambas cargas?
