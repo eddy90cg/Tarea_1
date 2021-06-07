@@ -142,7 +142,7 @@ Diagrama Esquemático de la Figura
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-1.png)
 
-**2-2 Corriente**
+**2-4 Corriente**
 
 24. Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos ¿Cuál es la corriente en amperes?
 
@@ -168,11 +168,33 @@ Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de tran
 
 entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A o I= 500µA.// Resp.
 
-26. Si la corriente I=4 en la figura 2-1, ¿Cuaántos coulumbs pasan a través de la lámpara en 7 ms? 
+26. Si la corriente I=4 en la figura 2-1, ¿Cuántos coulumbs pasan a través de la lámpara en 7 ms? 
 
 27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms? 
 
 28. ¿Cuánto tiempo le toma a una carga de 100 µC pasar por un pinto si la corriente es de 25mA?
+
+29. Si 93.6 * 10^12 electrones pasan a través de una lámpara en 5 ms, ¿Cuál es la corriente?
+
+30. La carga que pasa a través de un alhambre está dada por q=10t+4, donde q está en coulumbs y t en segundos,
+
+    a. ¿Cuánta carga ha pasado en t= 5 s?
+    b. ¿Cuánta carga ha pasado en t= 8 s?
+    c. ¿Cúal es la corriente en ampres?
+    
+31. La carga que pasa a través de un alhambre es q = (80t+20)C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+
+32. ¿Cuánto tiempo le toma a 312*10^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
+
+33. Si se requieren 1 353.6 J para mover 47*10^19 electrone a través de la lámpara de la figura 2-32 en 1.3 min, ¿Cuánto valen E e I?
+
+**2-5 Corriente**
+
+34. ¿Qué se entiende por cd?, ¿y por ca?
+
+35. 
+
+    
 
 
 
