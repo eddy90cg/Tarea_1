@@ -57,6 +57,7 @@ Diagrama Esquemático de la Figura
 
 1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
    * 1 metro cúbico de alambre
+     <img src="https://latex.codecogs.com/svg.latex?1\&space;m^3&space;=&space;100\&space;cm^3&space;\\&space;100\&space;cm^3&space;*&space;10^{23}&space;=&space;1\times10^{25}" title="1\ m^3 = 100\ cm^3 \\ 100\ cm^3 * 10^{23} = 1\times10^{25}" /> electrones libres.
     * Un alambre de cobre de 5 metros de longitud cuyo diámetro es <img src="https://latex.codecogs.com/svg.latex?0.163&space;cm" title="0.163 cm" />
 
 2. Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre ella si
