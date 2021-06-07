@@ -156,6 +156,21 @@ Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de tran
 
 entonces Q= 27 C , t = 9 s => 27/9 = I => I = 3 A. // Resp.
 
+25. Si 250 µC pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿Cuál será la lectura del medidor?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2032.png)
+
+Resolucion.-
+
+Para resolver ele ejericio aplicamos la formula:
+
+Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
+
+entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A o I= 500µA.// Resp.
+
+
+
+
 
 
 
@@ -167,7 +182,7 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 # 5. CONCLUSIONES
 
- * 
+ * Concluimos que al aplicar la toeria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente sus respectivas undiades.
 
 # 6. BIBLIOGRAFÍA
 
