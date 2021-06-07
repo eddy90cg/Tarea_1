@@ -168,6 +168,11 @@ Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de tran
 
 entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A o I= 500µA.// Resp.
 
+26. Si la corriente I=4 en la figura 2-1, ¿Cuaántos coulumbs pasan a través de la lámpara en 7 ms? 
+
+27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms? 
+
+28. ¿Cuánto tiempo le toma a una carga de 100 µC pasar por un pinto si la corriente es de 25mA?
 
 
 
