@@ -111,6 +111,7 @@ Diagrama Esquemático de la Figura
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
 
 17. Si se requieren <img src="https://latex.codecogs.com/svg.latex?360\&space;joules" title="360\ joules" /> de energía para transferir <img src="https://latex.codecogs.com/svg.latex?15\&space;C" title="15\ C" /> de carga a través de la lámpara de la figura 2-1, ¿Cuál es el voltaje de la batería?
+
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-1.png)
 
 18. Si se requiere <img src="https://latex.codecogs.com/svg.latex?600\&space;J" title="600\ J" /> de energía para mover <img src="https://latex.codecogs.com/svg.latex?9.36&space;\times&space;10^{19}" title="9.36 \times 10^{19}" /> electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
@@ -124,6 +125,7 @@ Diagrama Esquemático de la Figura
 22. Si el voltaje entre dos puntos de <img src="https://latex.codecogs.com/svg.latex?100\&space;V" title="100\ V" />, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
 
 23. Dado el voltaje de <img src="https://latex.codecogs.com/svg.latex?12\&space;V" title="12\ V" /> para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren <img src="https://latex.codecogs.com/svg.latex?57\&space;J" title="57\ J" /> de energía para moverla?
+
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-1.png)
 
 # 4. VIDEO
