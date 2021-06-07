@@ -188,7 +188,7 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 
 33. Si se requieren 1 353.6 J para mover 47*10^19 electrone a través de la lámpara de la figura 2-32 en 1.3 min, ¿Cuánto valen E e I?
 
-**2-5 Corriente**
+**2-5 Fuentes de voltaje de cd prácticas**
 
 34. ¿Qué se entiende por cd?, ¿y por ca?
 
