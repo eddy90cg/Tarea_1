@@ -10,7 +10,16 @@ La realizacion de este informe consiste en practicar de manera teorica atraves d
 
 # 1. OBJETIVOS
 
- *  
+  #### OBJETIVO GENERAL
+
+- Realizar las mediciones de corrientes y voltajes aplicando las bases teoricas correspondiente a cada capitulo.
+
+
+  #### OBJETIVOS ESPECÍFICOS
+
+- Afianzar resolviendo los ejericios correspondiente a intensidad de corriente y fuentes de corriente electrica directa por medio de un analisis minucioso de sus diagramas, graficas y aplicar todo lo aprendido en la parte teórica para cada caso presentado en los problemas respectivos.
+
+
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
