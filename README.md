@@ -41,7 +41,8 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 ![1](https://user-images.githubusercontent.com/84453557/121058716-47dad180-c786-11eb-925f-d1addec1e82e.png)
 
 2. Realice las siguientes conversiones:
-![2](https://user-images.githubusercontent.com/84453557/121058720-49a49500-c786-11eb-9d43-4565efd8e978.png)
+
+![2](https://user-images.githubusercontent.com/84453557/121059538-30501880-c787-11eb-9a03-5716bde0efcf.png)
 
 3. Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.
 ![3](https://user-images.githubusercontent.com/84453557/121058722-4b6e5880-c786-11eb-938d-31859d0e6a22.png)
