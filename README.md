@@ -40,7 +40,8 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 56. Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
-<div align="center">![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.1-14.png)<p>Figura 1-14</p><div/>
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.1-14.png)
+<p>Figura 1-14</p>
 
 Diagrama Esquemático de la Figura
 
