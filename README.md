@@ -37,6 +37,92 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 # CAP 1.
 
+1. Realice las siguientes conversiones:
+![1](https://user-images.githubusercontent.com/84453557/121058716-47dad180-c786-11eb-925f-d1addec1e82e.png)
+
+2. Realice las siguientes conversiones:
+![2](https://user-images.githubusercontent.com/84453557/121058720-49a49500-c786-11eb-9d43-4565efd8e978.png)
+
+3. Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.
+![3](https://user-images.githubusercontent.com/84453557/121058722-4b6e5880-c786-11eb-938d-31859d0e6a22.png)
+
+4. Un ventilador eléctrico gira a 300 rpm ¿A cuanto equivale en grados por segundo?
+![4](https://user-images.githubusercontent.com/84453557/121058731-4dd0b280-c786-11eb-9620-571f1d22f49c.png)
+
+5. Si la maquina robot de montaje superficial de la figura coloca 15 partes cada 12s, ¿Cuál es su tasa de colocación por hora? 
+![5](https://user-images.githubusercontent.com/84453557/121058735-50330c80-c786-11eb-9053-55f96eae7755.png)
+
+6. Si su impresora laser puede imprimir 8 páginas por minuto ¿Cuántas paginas imprime en una décima de hora?
+![6](https://user-images.githubusercontent.com/84453557/121058789-5fb25580-c786-11eb-9faa-fa0bb120a4f9.png)
+
+7. Un auto tiene un rendimiento de 27 millas por galón. ¿Cuál es el rendimiento en km por litro?
+![7](https://user-images.githubusercontent.com/84453557/121058801-63de7300-c786-11eb-9945-260fabe50880.png)
+
+8.	El radio ecuatorial de la Tierra es de 3963 millas ¿Cuál es la circunferencia de la tierra en km en el ecuador?
+![8](https://user-images.githubusercontent.com/84453557/121058813-66d96380-c786-11eb-94fe-3e85949a4a91.png)
+
+9.	Una rueda gira 18° en 0.02s ¿Cuántas rpm son?
+![9](https://user-images.githubusercontent.com/84453557/121058819-693bbd80-c786-11eb-929e-bdb23f9ce15b.png)
+
+10.	La altura de los caballos se mide en palmos (1 palmo = 4 pulg) ¿Cuantos metros mide un caballo de 16 palmos? ¿Cuántos cm?
+![10](https://user-images.githubusercontent.com/84453557/121058826-6b058100-c786-11eb-96ac-0e1ea147efa2.png)
+
+11. Se define la ecuación s=vt, donde s es la distancia, v la velocidad y t el tiempo. Si viaja a 6 mph por 500 s, obtiene s=(6)(500)=30 000 millas ¿Cuál es el error en ese calculo y la respuesta correcta?
+![11](https://user-images.githubusercontent.com/84453557/121058832-6ccf4480-c786-11eb-95a2-0d9cd5b9efa2.png)
+
+12.	Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardara en cortarla diagonalmente una maquina a 0,12 m/s?
+![12](https://user-images.githubusercontent.com/84453557/121058843-6f319e80-c786-11eb-944e-caca36418c3b.png)
+
+13.	A Joe S. se le pidió convertir 2000 yd/h a m/s: velocidad 2000 x 0.9144 x 60/60 =1828.8 m/s. Determine la respuesta correcta.
+![13](https://user-images.githubusercontent.com/84453557/121058851-7193f880-c786-11eb-932b-2af2f69eca06.png)
+
+14.	La distancia media de la Tierra a la Luna es 238 857 millas. Las señales de radio viajan a 299 792 458 m/s. ¿Cuánto tardan las señales en llegar a la luna?
+![14](https://user-images.githubusercontent.com/84453557/121058860-735dbc00-c786-11eb-9f1e-ca85d98bf210.png)
+
+15.	Si camina a una velocidad de 3 km/h por 8 minutos, 5km/h por 1.25h y luego continúa caminando a 4 km/h por 12 minutos, ¿Qué distancia habrá caminado en total?
+![15](https://user-images.githubusercontent.com/84453557/121058868-75277f80-c786-11eb-8807-a3d172841b48.png)
+
+16.	Suponga que camina a una velocidad de 2 mph por 12 minutos, 4 mph por 0.75 h, luego termina de caminar a 5 mph por 15 minutos, ¿Qué distancia recorrió?
+![16](https://user-images.githubusercontent.com/84453557/121058876-7789d980-c786-11eb-84c8-aeb307c37101.png)
+
+17.	Usted camina por 15 minutos a una velocidad de 2 km/h, luego 18 minutos a 5 km/h y el resto a 2.5 km/h. Si la distancia recorrida es 2.85km, ¿Cuántos minutos caminó a 2,5 km/h?
+![17](https://user-images.githubusercontent.com/84453557/121058878-79539d00-c786-11eb-8b9b-134fe2eeb249.png)
+
+18.	Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph y disminuye a 3 mph para los últimos 12 minutos. Si la distancia recorrida es 1.7 millas, ¿Cuántos minutos caminó a 3,5 mph?
+![18](https://user-images.githubusercontent.com/84453557/121058889-7b1d6080-c786-11eb-9304-d4bb4aab8b78.png)
+
+19.	Su jefe de planta le pide investigar 2 máquinas. El costo de electricidad para la operación de la M1 es 43 ctvs/min, mientras que para la M2 es de $200/8h. El resto de costos es idéntico. ¿Qué maquina debería comprar?
+![19](https://user-images.githubusercontent.com/84453557/121058894-7ce72400-c786-11eb-917b-b7a938537a5c.png)
+
+20.	Dado que:
+1 hp = 550 ft*lb/s
+1 ft = 0.3048 m
+1 lb = 4.448 N
+1J = 1 Nm
+W = 1 J/s
+Demuestre que 1 hp = 746 W.
+![20](https://user-images.githubusercontent.com/84453557/121058909-7f497e00-c786-11eb-9b41-87def47b7690.png)
+
+21.	Exprese cada una de las siguientes cantidades en notación de potencias de 10 con un digito diferente de cero a la izquierda del punto decimal.
+![21](https://user-images.githubusercontent.com/84453557/121058917-81134180-c786-11eb-96b1-3c521677dcdb.png)
+
+22.	Exprese las respuestas de cada una de las siguientes cantidades en notación científica.
+![22](https://user-images.githubusercontent.com/84453557/121058927-83759b80-c786-11eb-8e2a-e60e61a01fda.png)
+
+23.	Repita las instrucciones del ejercicio 22.
+![23](https://user-images.githubusercontent.com/84453557/121058943-86708c00-c786-11eb-9e27-fd254f5d55f7.png)
+
+24.	Determine el resultado de las siguientes operaciones.
+![24](https://user-images.githubusercontent.com/84453557/121058953-883a4f80-c786-11eb-8991-6265683fb3d7.png)
+
+25.	Convierta las siguientes cantidades a notación científica y sin usar la calculadora, determine las respuestas.
+![25](https://user-images.githubusercontent.com/84453557/121058958-8a041300-c786-11eb-974b-d420af1f7c89.png)
+
+26.	Para cada una de las siguientes cantidades, convierta los números a notación científica, después realice los cálculos que se indican. Redondee su respuesta a 4 dígitos.
+![26](https://user-images.githubusercontent.com/84453557/121058970-8c666d00-c786-11eb-8231-453263c223cf.png)
+
+
+
 56. Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
 
