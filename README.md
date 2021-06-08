@@ -568,7 +568,7 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 # 5. CONCLUSIONES
 
- * Concluimos que al aplicar la toeria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente sus respectivas undiades.
+ * Concluímos que al aplicar la toeria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente sus respectivas undiades.
 
 # 6. BIBLIOGRAFÍA
 
