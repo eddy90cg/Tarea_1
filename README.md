@@ -135,6 +135,7 @@ Demuestre que 1 hp = 746 W.
 27. Realice lo siguiente,
 
   a)	Convierta los números a notación de potencias de diez, después realice los cálculos que se indican,
+  
   b)	realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?
   
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046.png)
