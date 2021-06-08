@@ -361,18 +361,30 @@ Diagrama Esquemático de la Figura
     <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;0.02\&space;N&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{|5Q_1|&space;\cdot&space;|Q_2|}{(0.5\&space;m)^2}&space;\\&space;\\&space;Despejamos\&space;Q_1\&space;y\&space;obtenemos&space;\\&space;Q_1&space;=&space;5(4.714&space;\times&space;10^{-7})&space;=&space;2.357&space;\times&space;10^{-6}\&space;C&space;\\&space;Q_2&space;=&space;4.714&space;\times&space;10^{-7}\&space;C" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ 0.02\ N = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{|5Q_1| \cdot |Q_2|}{(0.5\ m)^2} \\ \\ Despejamos\ Q_1\ y\ obtenemos \\ Q_1 = 5(4.714 \times 10^{-7}) = 2.357 \times 10^{-6}\ C \\ Q_2 = 4.714 \times 10^{-7}\ C" />
 
 12. ¿Cuántos electrones representa una carga de <img src="https://latex.codecogs.com/svg.latex?1.63\&space;\mu&space;C" title="1.63\ \mu C" />?
+    
+    <img src="https://latex.codecogs.com/svg.latex?1.63&space;\mu&space;C&space;\cdot&space;\frac{1C}{1000000&space;\mu&space;C}&space;\cdot&space;\frac{6.24&space;\times&space;10^{18}}{1C}&space;=&space;1.017&space;\times&space;10^{13}" title="1.63 \mu C \cdot \frac{1C}{1000000 \mu C} \cdot \frac{6.24 \times 10^{18}}{1C} = 1.017 \times 10^{13}" /> electrones
 
 13. Determina la carga en <img src="https://latex.codecogs.com/svg.latex?19\times&space;10^{13}" title="19\times 10^{13}" /> electrones
+    
+    <img src="https://latex.codecogs.com/svg.latex?Q&space;=&space;\frac{19&space;\times&space;10^{13}}{6.24&space;\times&space;10^{18}}&space;=&space;3.011&space;\times&space;10^{-5}" title="Q = \frac{19 \times 10^{13}}{6.24 \times 10^{18}} = 3.011 \times 10^{-5}" /> Coulumb
 
 14. Una placa de metal eléctricamente neutra adquiere una carga negativa de <img src="https://latex.codecogs.com/svg.latex?47\&space;\mu&space;C" title="47\ \mu C" />. ¿Cuántos electrones se le agregaron?
 
+    <img src="https://latex.codecogs.com/svg.latex?47&space;\mu&space;C&space;\cdot&space;\frac{1C}{1000000\&space;\mu&space;C}&space;\cdot&space;\frac{6.24&space;\times&space;10^{18}}{1&space;C}&space;=&space;3.008&space;\times&space;10^{14}" title="47 \mu C \cdot \frac{1C}{1000000\ \mu C} \cdot \frac{6.24 \times 10^{18}}{1 C} = 3.008 \times 10^{14}" /> electrones
+
 15. A una placa de metal se le han adicionado <img src="https://latex.codecogs.com/svg.latex?14.6&space;\times&space;10^{13}" title="14.6 \times 10^{13}" /> electrones y posteriormente se le agrega una carga de <img src="https://latex.codecogs.com/svg.latex?1.3\&space;\mu&space;C" title="1.3\ \mu C" />. Si la carga final en la placa es de <img src="https://latex.codecogs.com/svg.latex?5.6\&space;\mu&space;C" title="5.6\ \mu C" />, ¿Cuál fue la carga inicial?
 
+    <img src="https://latex.codecogs.com/svg.latex?14.6&space;\times&space;10^{18}&space;\cdot&space;\frac{1C}{6.24&space;\times&space;10^{18}}&space;=&space;2.34&space;\times&space;10^{-5}\&space;C&space;\\&space;\\&space;Q_i&space;=&space;5.6\&space;C&space;-&space;2.34&space;\times&space;10^{-5}\&space;C&space;-&space;1.3\&space;C&space;\\&space;Q_i&space;=&space;4.3\&space;C" title="14.6 \times 10^{18} \cdot \frac{1C}{6.24 \times 10^{18}} = 2.34 \times 10^{-5}\ C \\ \\ Q_i = 5.6\ C - 2.34 \times 10^{-5}\ C - 1.3\ C \\ Q_i = 4.3\ C" />
+
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+    
+    El balance se perturba con facilidad ya que al realizar algún movimiento podemos llegar a arrancar (literalmente) electrones y así desprenderlos de sus átomos.
 
 17. Si se requieren <img src="https://latex.codecogs.com/svg.latex?360\&space;joules" title="360\ joules" /> de energía para transferir <img src="https://latex.codecogs.com/svg.latex?15\&space;C" title="15\ C" /> de carga a través de la lámpara de la figura 2-1, ¿Cuál es el voltaje de la batería?
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-1.png)
+
+<img src="https://latex.codecogs.com/svg.latex?Aplicacion\&space;de\&space;la\&space;formula&space;\\&space;\\&space;V&space;=&space;\frac{W}{Q}&space;=&space;\frac{360}{15}&space;=&space;24\&space;V" title="Aplicacion\ de\ la\ formula \\ \\ V = \frac{W}{Q} = \frac{360}{15} = 24\ V" />
 
 18. Si se requiere <img src="https://latex.codecogs.com/svg.latex?600\&space;J" title="600\ J" /> de energía para mover <img src="https://latex.codecogs.com/svg.latex?9.36&space;\times&space;10^{19}" title="9.36 \times 10^{19}" /> electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
 
