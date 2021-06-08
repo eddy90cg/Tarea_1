@@ -23,6 +23,15 @@ La realizacion de este informe consiste en practicar de manera teorica atraves d
 
 # 2. MARCO TEÓRICO (RESUMEN)
 
+CAPITULO 1.
+
+![1 1](https://user-images.githubusercontent.com/84453557/121117107-3a046b00-c7dd-11eb-90a2-903f3db33c96.png)
+
+
+![1 2](https://user-images.githubusercontent.com/84453557/121117137-44266980-c7dd-11eb-817e-f7976042ebf0.png)
+
+
+
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
 Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
