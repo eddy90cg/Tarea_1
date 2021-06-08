@@ -572,9 +572,11 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 # 6. BIBLIOGRAFÍA
 
-* Corriente eléctrica | Khan Academy , Recuperado de: https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica
+* Corriente eléctrica | Khan Academy , Recuperado de: https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica/.
 
 * Analisis de Circuito, Robbins Miller, LAZZARONI, Juan Carlos, cuarta edición.
+
+* Arreglos de Fuentes y Resistencias | Análisis de Circuitos En Ingeniería, Recuperado de: https://analisisdecircuitos1.wordpress.com/2014/08/27/capitulo-16-arreglos-de-fuentes-y-resistencias/.  
 
 RUBRICA
 
