@@ -456,6 +456,10 @@ tiempo de vida de la batería = (capacidad) / (consumo de corriente), donde t = 
 
 Resolucion.-
 
+tiempo de vida de la batería = (capacidad) / (consumo de corriente), aplicamos la de capcidad = 10 mA * 520 h, por que es la mas cercana a los 10 mA que se emplea segun la tabla => capacidad = 5200 mAh; Ahora con: consumo de corriente = 10 mA, entonces:
+
+t= 5200/10 horas => t 520 horas // Resp. 
+
 
 
 **2-6 Medición de voltaje y corriente**
