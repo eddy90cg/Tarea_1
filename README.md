@@ -34,12 +34,6 @@ CAPITULO 1.
 CAPITULO 2.
 
 
-![2 1](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/mentefacto%20cap%202%201.jpg)
-
-
-![2 1](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/mentefacto%20multimetro%20cap%202%202.png)
-
-
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 # CAP 1.
@@ -202,10 +196,24 @@ Diagrama Esquemático de la Figura
 
 7. Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es atracción y cuando es repulsión.
    - Una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;1\&space;\mu&space;C" title="+1\ \mu C" /> y una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;7\&space;\mu&space;C" title="+7\ \mu C" />, separadas <img src="https://latex.codecogs.com/svg.latex?10\&space;mm" title="10\ mm" />
+     
+     <img src="https://latex.codecogs.com/svg.latex?Realizamos\&space;las\&space;transformaciones\&space;y\&space;resolvemos&space;\\&space;\\&space;1&space;\mu&space;C&space;\times&space;10^{-6}&space;=&space;10^{-6}\&space;C&space;\\&space;7&space;\mu&space;C&space;\times&space;10^{-6}&space;=&space;7&space;\times&space;10^{-6}\&space;C&space;\\&space;10\&space;mm&space;\times&space;10^{-3}&space;=&space;10&space;\times&space;10^{-6}\&space;m&space;\\&space;F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}\&space;\Rightarrow\&space;F&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{10^{-6}&space;\cdot&space;7&space;\times&space;10^{-6}\&space;C&space;}{(10&space;\times&space;10^{-6}\&space;m)^2}&space;=&space;630\&space;N" title="Realizamos\ las\ transformaciones\ y\ resolvemos \\ \\ 1 \mu C \times 10^{-6} = 10^{-6}\ C \\ 7 \mu C \times 10^{-6} = 7 \times 10^{-6}\ C \\ 10\ mm \times 10^{-3} = 10 \times 10^{-6}\ m \\ F = k \frac{Q_1 \cdot Q_2}{r^2}\ \Rightarrow\ F = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{10^{-6} \cdot 7 \times 10^{-6}\ C }{(10 \times 10^{-6}\ m)^2} = 630\ N" /> (Repulsión)
+     
     - <img src="https://latex.codecogs.com/svg.latex?Q_1&space;=&space;8\&space;\mu&space;C" title="Q_1 = 8\ \mu C" /> y <img src="https://latex.codecogs.com/svg.latex?Q_2&space;=&space;-4\&space;\mu&space;C" title="Q_2 = -4\ \mu C" />, separados <img src="https://latex.codecogs.com/svg.latex?12\&space;cm" title="12\ cm" />
+      
+      <img src="https://latex.codecogs.com/svg.latex?Realizamos\&space;las\&space;transformaciones\&space;y\&space;resolvemos&space;\\&space;\\&space;8&space;\mu&space;C&space;\times&space;10^{-6}&space;=&space;8&space;\times&space;10^{-6}\&space;C&space;\\&space;-4&space;\mu&space;C&space;\times&space;10^{-6}&space;=&space;-4&space;\times&space;10^{-6}\&space;C&space;\\&space;12\&space;cm&space;\times&space;10^{-2}&space;=&space;12&space;\times&space;10^{-2}\&space;m&space;\\&space;F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}\&space;\Rightarrow\&space;F&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{8&space;\times&space;10^{-6}\&space;C&space;\cdot&space;-4&space;\times&space;10^{-6}\&space;C}{(12&space;\times&space;10^{-2}\&space;m)^2}&space;=&space;20\&space;N" title="Realizamos\ las\ transformaciones\ y\ resolvemos \\ \\ 8 \mu C \times 10^{-6} = 8 \times 10^{-6}\ C \\ -4 \mu C \times 10^{-6} = -4 \times 10^{-6}\ C \\ 12\ cm \times 10^{-2} = 12 \times 10^{-2}\ m \\ F = k \frac{Q_1 \cdot Q_2}{r^2}\ \Rightarrow\ F = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{8 \times 10^{-6}\ C \cdot -4 \times 10^{-6}\ C}{(12 \times 10^{-2}\ m)^2} = 20\ N" /> (Atracción)
+      
      - Dos electrones separados <img src="https://latex.codecogs.com/svg.latex?12\times&space;10^{-8}\&space;m" title="12\times 10^{-8}\ m" />
+       
+       <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}\&space;\Rightarrow\&space;F&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{-1.6&space;\times&space;10^{-19}\&space;C&space;\cdot&space;-1.6&space;\times&space;10^{-19}&space;}{(12&space;\times&space;10^{-8}\&space;m)^2}&space;=&space;-1.6&space;\times&space;10^{-14}\&space;N" title="F = k \frac{Q_1 \cdot Q_2}{r^2}\ \Rightarrow\ F = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{-1.6 \times 10^{-19}\ C \cdot -1.6 \times 10^{-19} }{(12 \times 10^{-8}\ m)^2} = -1.6 \times 10^{-14}\ N" /> (Repulsión)
+       
       - Un electrón y un protón separados <img src="https://latex.codecogs.com/svg.latex?5.3\times&space;10^{-11}\&space;m" title="5.3\times 10^{-11}\ m" />
-       - Un electrón y neutrón separados <img src="https://latex.codecogs.com/svg.latex?5.7\times&space;10^{-11}\&space;m" title="5.7\times 10^{-11}\ m" />
+        
+      <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}\&space;\Rightarrow\&space;F&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{-1.6&space;\times&space;10^{-19}\&space;C&space;\cdot&space;1.6&space;\times&space;10^{-19}&space;}{(5.3&space;\times&space;10^{-11}\&space;m)^2}&space;=&space;8.2&space;\times&space;10^{-8}\&space;N" title="F = k \frac{Q_1 \cdot Q_2}{r^2}\ \Rightarrow\ F = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{-1.6 \times 10^{-19}\ C \cdot 1.6 \times 10^{-19} }{(5.3 \times 10^{-11}\ m)^2} = 8.2 \times 10^{-8}\ N" /> (Atracción)  
+        
+      - Un electrón y neutrón separados <img src="https://latex.codecogs.com/svg.latex?5.7\times&space;10^{-11}\&space;m" title="5.7\times 10^{-11}\ m" />
+        
+        <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}\&space;\Rightarrow\&space;F&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{-1.6&space;\times&space;10^{-19}\&space;C&space;\cdot&space;0\&space;C&space;}{(5.3&space;\times&space;10^{-11}\&space;m)^2}&space;=&space;0\&space;N" title="F = k \frac{Q_1 \cdot Q_2}{r^2}\ \Rightarrow\ F = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{-1.6 \times 10^{-19}\ C \cdot 0\ C }{(5.3 \times 10^{-11}\ m)^2} = 0\ N" /> (El neutrón no posee carga)
 
 8. ¿Qué significado tiene decir que un cuerpo esta “cargado”?
 
@@ -506,15 +514,7 @@ El voltímetro y el amperímetro se intercambian. // Resp.
 
 Resolucion.-
 
-Planteamos los diagramas de circuitos según lo presentado en la tabla 2 - 2, y son: 
-
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado.png) // Resp.
-
-![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-2.png) // Resp.
-
-![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-3.png) // Resp.
-
-![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-4.png) // Resp.
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen un especificación de voltaje. ¿Por qué?        
 
