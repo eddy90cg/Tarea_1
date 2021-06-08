@@ -19,6 +19,7 @@ La realización de este informe consiste en practicar de manera teórica atravé
 
 - Afianzar resolviendo los ejericios correspondiente a intensidad de corriente y fuentes de corriente electrica directa por medio de un analisis minucioso de sus diagramas, graficas y aplicar todo lo aprendido en la parte teórica para cada caso presentado en los problemas respectivos.
 
+- Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.  
 
 
 # 2. MARCO TEÓRICO
@@ -679,7 +680,9 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 # 5. CONCLUSIONES
 
- * Concluímos que al aplicar la toeria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente sus respectivas undiades.
+ * Concluímos que al aplicar la teoria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente sus respectivas undiades.
+ 
+ * Finalmente después de haber realizado un análisis profundo de cada tema tratado, pudimos observar que gracias al análisis realizado por cada uno se pudo obtener un mayor conocimiento y así poder realizar el cálculo necesario para la resolución de problemas, los cuales nos brindan un gran avance en el análisis de circuitos.
 
 # 6. BIBLIOGRAFÍA
 
