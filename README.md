@@ -150,6 +150,41 @@ Demuestre que 1 hp = 746 W.
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2030.png)
 
+31. Si 6.24 ×10^18 electrones pasan a través de un alambre en 1 s, ¿cuántos pasan a través de él durante un intervalo de 2 hr, 47 min y 10 s?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2031.png)
+
+32. Calcula la distancia en metros que viaja la luz en el vacío en 1.2×10^(-8) segundos.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2032.png)
+
+33. ¿Cuánto tiempo tarda la luz en viajar 3.47×10^5 km en el vacío?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2033.png)
+
+34. ¿Qué tan lejos viaja la luz en km en un año luz?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2034.png)
+
+35. Al investigar un sitio para un proyecto hidroeléctrico se determina que el ﬂujo de agua es de 3.73 ×10^4 m^3/s. ¿A cuánto equivale esta cantidad en litros/hora?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2035.png)
+
+37. ¿Cuál es el preﬁjo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2037.png)
+
+38. Exprese lo siguiente en términos de sus abreviaturas, es decir, microwatts como µW. Ponga atención en las mayúsculas (esto es, V no v, para volts)
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2038.png)
+
+39. Exprese lo siguiente en la notación de ingeniería más práctica (esto es, 1270 µs=1.27 ms).
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2039.png)
+
+40.Convierta lo siguiente:
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2040.png)
 
 56 . Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
