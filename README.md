@@ -260,6 +260,8 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 
 27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms? 
 
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2025.png)
+
 28. ¿Cuánto tiempo le toma a una carga de 100 µC pasar por un pinto si la corriente es de 25mA?
 
 29. Si 93.6 * 10^12 electrones pasan a través de una lámpara en 5 ms, ¿Cuál es la corriente?
@@ -274,6 +276,8 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 
 32. ¿Cuánto tiempo le toma a 312*10^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
 
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2032.png)
+
 33. Si se requieren 1 353.6 J para mover 47*10^19 electrone a través de la lámpara de la figura 2-32 en 1.3 min, ¿Cuánto valen E e I?
 
 **2-5 Fuentes de voltaje de cd prácticas**
@@ -283,15 +287,23 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 35. Considere tres baterías conectadas como en la figura 2-33.
     a. Si E1 = 1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale Et?
     b. Si se invierte la conexión a la fuente 3, ¿ Cuánto vale Et? 
+    
+    ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2033.png)
  
 36. ¿Cómo se carga una batería secundaria? haga un bosquejo. ¿Se puede cargar una batería primaria?
 
 37. Una batería especifica en 1 400 mAh suministra 28 mA a una carga. ¿ Cúanto tiempo se espera que dure? 
 
-38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 
- -  con un consumo de corrriente de 10 mA, de 50mA y de 100 mA? ¿Qué cpncluye de estos resultados? 
+38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2
+ - 1  con un consumo de corrriente de 10 mA, de 50mA y de 100 mA? ¿Qué concluye de estos resultados? 
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/tabla%202-1.png)
+
+
 
 39. La batería de la figura 2 - 15 está especficada en 81 Ah a 5° C ¿ Cuál es el tiempo de vida esperando ( en horas ) con un consumo de corriente de 5 A a -15° C?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2015.png)
 
 40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 ! a 25 ° C ¿Cuánto espera que dure a 5 ° C consumo de corriente de 0.8 A?
 
@@ -301,15 +313,25 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 
 42. El voltímetro digital de la figura 2 - 34 tiene la caracterísitca de autopolaridad. Para cada caso, determine su lectura.
 
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2034.png)
+
 43. La corriente en el circuitode la figura 2-25 es 9.17 mA. ¿ Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2025.png)
 
 44. ¿Cuál es el error en la afimración de que el voltaje a través de la lámpara de la figura 2-24 es 70.3 V ?
 
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2024.png)
+
 45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36 ? Corríjalo. 
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2036.png)
 
 **2-7 Interruptores, fusible e interruptores automaticos**
 
 46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/tabla%202-2.png)
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen un especificación de voltaje. ¿Por qué?        
 
