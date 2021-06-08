@@ -388,7 +388,11 @@ Diagrama Esquemático de la Figura
 
 18. Si se requiere <img src="https://latex.codecogs.com/svg.latex?600\&space;J" title="600\ J" /> de energía para mover <img src="https://latex.codecogs.com/svg.latex?9.36&space;\times&space;10^{19}" title="9.36 \times 10^{19}" /> electrones de un punto a otro, ¿Cuál es la diferencia de potencial entre los dos puntos?
 
+    <img src="https://latex.codecogs.com/svg.latex?Realizamos\&space;la\&space;transformacion\&space;de\&space;electrones\&space;para\&space;aplicar\&space;la\&space;formula&space;\\&space;9.36&space;\times&space;10^{19}e^{-1}&space;\cdot&space;\frac{1.6&space;\times&space;10^{-19}C}{1\&space;e^{-1}}&space;=&space;14.98\&space;C&space;\\&space;\\&space;V&space;=&space;\frac{W}{Q}&space;=&space;\frac{360}{14.98}&space;=&space;24.03\&space;V" title="Realizamos\ la\ transformacion\ de\ electrones\ para\ aplicar\ la\ formula \\ 9.36 \times 10^{19}e^{-1} \cdot \frac{1.6 \times 10^{-19}C}{1\ e^{-1}} = 14.98\ C \\ \\ V = \frac{W}{Q} = \frac{360}{14.98} = 24.03\ V" />
+
 19. Si se requiere <img src="https://latex.codecogs.com/svg.latex?1.2\&space;kJ" title="1.2\ kJ" /> de energía para mover <img src="https://latex.codecogs.com/svg.latex?500\&space;mC" title="500\ mC" /> de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
+    
+    <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;\frac{W}{Q}&space;=&space;\frac{1.2&space;\times&space;10^{6}}{500}&space;=&space;2400\&space;V" title="V = \frac{W}{Q} = \frac{1.2 \times 10^{6}}{500} = 2400\ V" />
 
 20. ¿Cuánta energía se requiere para mover <img src="https://latex.codecogs.com/svg.latex?20\&space;mC" title="20\ mC" /> de carga a través de una lámpara de la figura 2-23?
 
