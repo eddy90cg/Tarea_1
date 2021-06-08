@@ -38,6 +38,8 @@ CAPITULO 2.
 
 # CAP 1.
 
+**Capítulo 1: Conceptos fundamentales de cd - Introduccion**
+
 1. Realice las siguientes conversiones:
 ![1](https://user-images.githubusercontent.com/84453557/121058716-47dad180-c786-11eb-925f-d1addec1e82e.png)
 
@@ -147,7 +149,7 @@ Diagrama Esquemático de la Figura
 
 # CAP 2. 
 
-**Capítulo 2: Voltaje y Corriente**
+**Capítulo 2: Conceptos fundamentales de cd  - Voltaje y Corriente**
 
 **2-1 Revisión de la teoría atómica**
 
