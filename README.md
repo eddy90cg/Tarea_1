@@ -132,7 +132,11 @@ Demuestre que 1 hp = 746 W.
 26.	Para cada una de las siguientes cantidades, convierta los números a notación científica, después realice los cálculos que se indican. Redondee su respuesta a 4 dígitos.
 ![26](https://user-images.githubusercontent.com/84453557/121058970-8c666d00-c786-11eb-8231-453263c223cf.png)
 
+27. Realice lo siguiente,
 
+a)	Convierta los números a notación de potencias de diez, después realice los cálculos que se indican,
+b)	realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?
+![27](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046.png)
 
 56 . Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
