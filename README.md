@@ -244,12 +244,20 @@ Diagrama Esquemático de la Figura
         <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}\&space;\Rightarrow\&space;F&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{-1.6&space;\times&space;10^{-19}\&space;C&space;\cdot&space;0\&space;C&space;}{(5.3&space;\times&space;10^{-11}\&space;m)^2}&space;=&space;0\&space;N" title="F = k \frac{Q_1 \cdot Q_2}{r^2}\ \Rightarrow\ F = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{-1.6 \times 10^{-19}\ C \cdot 0\ C }{(5.3 \times 10^{-11}\ m)^2} = 0\ N" /> (El neutrón no posee carga)
 
 8. ¿Qué significado tiene decir que un cuerpo esta “cargado”?
+  
+  Podemos decir que un cuerpo esta cargado cuando tiene mas o menos electrones de lo normal, cuando existe un exceso de electrones la carga será negativa y cuando existe una carencia de electrones la carga será positiva. 
 
 9. La fuerza entre dos cargas, una positiva y una negativa, separadas <img src="https://latex.codecogs.com/svg.latex?2\&space;cm" title="2\ cm" /> es de <img src="https://latex.codecogs.com/svg.latex?180\&space;N" title="180\ N" />. Si <img src="https://latex.codecogs.com/svg.latex?Q_1&space;=&space;4\&space;\mu&space;C" title="Q_1 = 4\ \mu C" />, ¿Cuánto vale <img src="https://latex.codecogs.com/svg.latex?Q_2" title="Q_2" />?, ¿la fuerza es de atracción o de repulsión?
 
+   <img src="https://latex.codecogs.com/svg.latex?Realizamos\&space;la\&space;transformacion\&space;y&space;resolvemos\&space;\\&space;\\&space;4&space;\mu&space;C&space;\times&space;10^{-6}&space;=&space;4&space;\times&space;10^{-6}\&space;C&space;\\&space;\\&space;F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;180\&space;N&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{4&space;\times&space;10^{-6}\&space;C&space;\cdot&space;Q_2}{(0.02\&space;m)^2}&space;\\&space;\\&space;Q_2&space;=&space;2&space;\mu&space;C" title="Realizamos\ la\ transformacion\ y resolvemos\ \\ \\ 4 \mu C \times 10^{-6} = 4 \times 10^{-6}\ C \\ \\ F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ 180\ N = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{4 \times 10^{-6}\ C \cdot Q_2}{(0.02\ m)^2} \\ \\ Q_2 = 2 \mu C" /> (Atracción)
+
 10. Si se pudiera colocar una carga de <img src="https://latex.codecogs.com/svg.latex?1\&space;C" title="1\ C" /> en cada uno de dos cuerpos que están separados <img src="https://latex.codecogs.com/svg.latex?25\&space;cm" title="25\ cm" /> de centro a centro, ¿Cuál sería la fuerza entre ellas en newtons?, ¿y en toneladas?
+    
+    <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{1\&space;C&space;\cdot&space;1\&space;C}{(0.25\&space;m)^2}&space;\\&space;\\&space;F&space;=&space;1.44&space;\times&space;10^{-11}\&space;N&space;\\&space;F&space;=&space;1.44&space;\times&space;10^{-15}\&space;tnf" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ F = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{1\ C \cdot 1\ C}{(0.25\ m)^2} \\ \\ F = 1.44 \times 10^{-11}\ N \\ F = 1.44 \times 10^{-15}\ tnf" />
 
 11. La fuerza de repulsión entre dos cargas separadas <img src="https://latex.codecogs.com/svg.latex?50\&space;cm" title="50\ cm" /> es de <img src="https://latex.codecogs.com/svg.latex?0.02\&space;N" title="0.02\ N" />. Si <img src="https://latex.codecogs.com/svg.latex?Q_2&space;=&space;5Q_1" title="Q_2 = 5Q_1" />, determine las cargas y su posible signo
+    
+    
 
 12. ¿Cuántos electrones representa una carga de <img src="https://latex.codecogs.com/svg.latex?1.63\&space;\mu&space;C" title="1.63\ \mu C" />?
 
