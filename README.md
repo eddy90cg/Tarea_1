@@ -181,48 +181,22 @@ Diagrama Esquemático de la Figura
      ¿Cómo se ve afectada la fuerza entre ella si
      
    * Se duplica la magnitud de ambas cargas?
-     
-     La relación entre la Magnitud y las Cargas es directamente proporcinal, por ende, si la magnitud de las cargas aumentan, la fuerza también aumentará.
-     
    * Se triplica la distancia entre ella?
-     
-     La relación entre la Distancia y la Fuerza es inversamente proporcional, por ende, si la distancia entre cargas aumenta, la fuerza disminuirá.
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
-   
-   <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{2Q_1&space;\cdot&space;3Q_2}{\frac{r^2}{2}}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{4Q_1&space;\cdot&space;6Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;24" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ F = k \frac{2Q_1 \cdot 3Q_2}{\frac{r^2}{2}} \\ \\ F = k \frac{4Q_1 \cdot 6Q_2}{r^2} \\ \\ F = 24" /> 
-   
-   La Fuerza será 24 veces mayor a la inicial
 
 4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
-   El segundo material será el mejor conductor puesto que tiene menos electrones en su cada de valencia, lo que les permite moverse con gran soltura.
 
 5. Literales
    - ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
-     
-     Un material es buen conductor cuando tienen un gran número de electrónes libres, es decir, tienen menos electrones en su última capa de valencia.
-     
-   - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
-     
-     El cobre es barato y se transforma con facilidad en alambre.
-     
-   - ¿Qué hace que un material sea un buen aislante?
-     
-     Un material será un buen aislante cuando sus capas de valencia estan llenas o casi llenas, lo que hace que sus electrones estén estrechamente ligados y no conduzcan energía. 
-     
-   - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
-     
-     Este sucede porque se aplica una gran cantidad de voltaje, lo cual hace que los electrones sean arrancados de sus átomos y esto provoca que haya conducción.
+    - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
+     - ¿Qué hace que un material sea un buen aislante?
+      - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
 
 6. Literales
    - Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
-     
-     Porque se oxida menos que otros materiales, tiene alta conductividad y la corrosión no lo afecta.
-     
-   - ¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
-     
-     Es usado generalmente en trabajo en los el peso ligero es muy importante. 
+    - ¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
 
 **2-2 La unidad de carga eléctrica: el coulumb**
 
@@ -230,8 +204,8 @@ Diagrama Esquemático de la Figura
    - Una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;1\&space;\mu&space;C" title="+1\ \mu C" /> y una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;7\&space;\mu&space;C" title="+7\ \mu C" />, separadas <img src="https://latex.codecogs.com/svg.latex?10\&space;mm" title="10\ mm" />
     - <img src="https://latex.codecogs.com/svg.latex?Q_1&space;=&space;8\&space;\mu&space;C" title="Q_1 = 8\ \mu C" /> y <img src="https://latex.codecogs.com/svg.latex?Q_2&space;=&space;-4\&space;\mu&space;C" title="Q_2 = -4\ \mu C" />, separados <img src="https://latex.codecogs.com/svg.latex?12\&space;cm" title="12\ cm" />
      - Dos electrones separados <img src="https://latex.codecogs.com/svg.latex?12\times&space;10^{-8}\&space;m" title="12\times 10^{-8}\ m" />
-     - Un electrón y un protón separados <img src="https://latex.codecogs.com/svg.latex?5.3\times&space;10^{-11}\&space;m" title="5.3\times 10^{-11}\ m" />
-     - Un electrón y neutrón separados <img src="https://latex.codecogs.com/svg.latex?5.7\times&space;10^{-11}\&space;m" title="5.7\times 10^{-11}\ m" />
+      - Un electrón y un protón separados <img src="https://latex.codecogs.com/svg.latex?5.3\times&space;10^{-11}\&space;m" title="5.3\times 10^{-11}\ m" />
+       - Un electrón y neutrón separados <img src="https://latex.codecogs.com/svg.latex?5.7\times&space;10^{-11}\&space;m" title="5.7\times 10^{-11}\ m" />
 
 8. ¿Qué significado tiene decir que un cuerpo esta “cargado”?
 
@@ -482,7 +456,9 @@ tiempo de vida de la batería = (capacidad) / (consumo de corriente), donde t = 
 
 Resolucion.-
 
+tiempo de vida de la batería = (capacidad) / (consumo de corriente), aplicamos la de capcidad = 10 mA * 520 h, por que es la mas cercana a los 10 mA que se emplea segun la tabla => capacidad = 5200 mAh; Ahora con: consumo de corriente = 10 mA, entonces:
 
+t= 5200/10 horas => t = 520 horas // Resp. 
 
 **2-6 Medición de voltaje y corriente**
 
@@ -490,17 +466,37 @@ Resolucion.-
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2034.png)
 
+Resolucion.-
+
+a. 20 V -> en serie cd. // Resp.
+b. -25 v -> en serie cd al contrario. // Resp.
+c. 10 v + 4 v = 14 V -> en serie las fuentes de voltaje se suman cd. // Resp.
+d. 4 V + (-10) v = -6 V -> en serie conexion de las fuentes de voltaje pero diferente direccion la segunda fuente por eso la resta, y esta en cd. // Resp.
+
 43. La corriente en el circuitode la figura 2-35 es 9.17 mA. ¿ Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos.
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2035.png)
+
+Resolucion.-
+
+Según el diagrama presentado muestra el multimetro en Amperimetro de cd, y al estar ocnectados en direccion de la correinte y en serie los dos multimetros nos indica correctamente la medición, (c) ambos // Resp.
 
 44. ¿Cuál es el error en la afimración de que el voltaje a través de la lámpara de la figura 2-24 es 70.3 V ?
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2024.png)
 
-45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36 ? Corríjalo. 
+Resolucion.-
+
+El error visible es que se debe tomar en cuneta el valor del voltaje y su resitencia respecto al circuito aplicado y asi afirmar el voltaje en la lámpara. // Resp.
+
+45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36 ? 
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2036.png)
+
+Resolucion.-
+
+El voltímetro y el amperímetro se intercambian. // Resp.
+
 
 **2-7 Interruptores, fusible e interruptores automaticos**
 
@@ -508,9 +504,15 @@ Resolucion.-
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/tabla%202-2.png)
 
+Resolucion.-
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado.png) // Resp.
+
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen un especificación de voltaje. ¿Por qué?        
 
+Resolucion.-
 
+Porque si se excede la especificación de voltaje del fusible, se puede producir un arco cuando se funde. // Resp.
 
 
 
