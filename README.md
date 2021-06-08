@@ -183,6 +183,8 @@ Diagrama Esquemático de la Figura
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
 
+<img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{2Q_1&space;\cdot&space;3Q_2}{\frac{r}{2}^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{4Q_1&space;\cdot&space;6Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;24" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ F = k \frac{2Q_1 \cdot 3Q_2}{\frac{r}{2}^2} \\ \\ F = k \frac{4Q_1 \cdot 6Q_2}{r^2} \\ \\ F = 24" /> La fuerza será 24 veces mayor a la inicial.
+
 4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
 
