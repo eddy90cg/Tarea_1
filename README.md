@@ -242,7 +242,7 @@ Para resolver ele ejericio aplicamos la formula:
 
 Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
 
-entonces Q= 27 C , t = 9 s => 27/9 = I => I = 3 A. // Resp.
+entonces: Q= 27 C , t = 9 s => 27/9 = I => I = 3 A. // Resp.
 
 25. Si 250 µC pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿Cuál será la lectura del medidor?
 
@@ -254,17 +254,52 @@ Para resolver ele ejericio aplicamos la formula:
 
 Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
 
-entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A o I= 500µA.// Resp.
+entonces: Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A o I= 500µA.// Resp.
 
 26. Si la corriente I=4 en la figura 2-1, ¿Cuántos coulumbs pasan a través de la lámpara en 7 ms? 
+
+Resolucion.-
+
+Para resolver ele ejericio aplicamos la formula:
+
+Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
+
+entonces: Q= ?? -> I = 4 A  , t= 7 ms -> C = 4* 7*10^-3 C. => C = 7/250  C. o Q = 0.028 C.// Resp.
 
 27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms? 
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2025.png)
 
-28. ¿Cuánto tiempo le toma a una carga de 100 µC pasar por un pinto si la corriente es de 25mA?
+Resolucion.-
+
+Para resolver ele ejericio aplicamos la formula:
+
+Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
+
+entonces: Q= ?? -> I = 16.7 mA o I = 0.0167 A -> t= 20 ms o t = 0.0020 s -> Q = 16.7 * 20 -> Q = 334 mC o Q = 0.334 C. // Resp. 
+
+28. ¿Cuánto tiempo le toma a una carga de 100 µC pasar por un punto si la corriente es de 25mA?
+
+Resolucion.-
+
+Para resolver ele ejericio aplicamos la formula:
+
+Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
+
+entonces: Q = 100 µC o Q = 0.100 mC -> I = 25 mA -> t = ? => t = 0.1 / 25 ms -> t = 1/ 250 ms -> t = 4 * 10^-3 s. // Resp.
+
 
 29. Si 93.6 * 10^12 electrones pasan a través de una lámpara en 5 ms, ¿Cuál es la corriente?
+
+Resolucion.- 
+
+Decimos que: La cantidad de electrones que tiene 1 Coulomb es de: 6.25x10^18, entonces si tenemos Q =  93.6 * 10^12 electrones -> Q = (93.6 * 10^12) / (6.25x10^18) C. -> Q = 1.4976 * 10^-5 C. 
+
+Ahora: Para resolver ele ejericio aplicamos la formula:
+
+Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
+
+entonces: Q = 1.4976 * 10^-5 C. -> t = 5 * 10^-3 s -> I = ? => I = (1.4976 * 10^-5) / (5 * 10^-3) A -> I = 234/78125 A -> I = 2.9952 * 10^-3 A. // Resp.
 
 30. La carga que pasa a través de un alhambre está dada por q=10t+4, donde q está en coulumbs y t en segundos,
 
