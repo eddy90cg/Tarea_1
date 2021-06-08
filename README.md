@@ -181,22 +181,30 @@ Diagrama Esquemático de la Figura
      ¿Cómo se ve afectada la fuerza entre ella si
      
    * Se duplica la magnitud de ambas cargas?
+     
+     La relación entre la Magnitud y las Cargas es directamente proporcinal, por ende, si la magnitud de las cargas aumentan, la fuerza también aumentará.
+     
    * Se triplica la distancia entre ella?
+     
+     La relación entre la Distancia y la Fuerza es inversamente proporcional, por ende, si la distancia entre cargas aumenta, la fuerza disminuirá.
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
+   
+   <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{2Q_1&space;\cdot&space;3Q_2}{\frac{r^2}{2}}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{4Q_1&space;\cdot&space;6Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;24" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ F = k \frac{2Q_1 \cdot 3Q_2}{\frac{r^2}{2}} \\ \\ F = k \frac{4Q_1 \cdot 6Q_2}{r^2} \\ \\ F = 24" /> 
 
 4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
+   El segundo material será el mejor conductor puesto que tiene menos electrones en su cada de valencia, lo que les permite moverse con gran soltura.
 
 5. Literales
    - ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
-    - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
-     - ¿Qué hace que un material sea un buen aislante?
-      - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
+   - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
+   - ¿Qué hace que un material sea un buen aislante?
+   - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
 
 6. Literales
    - Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
-    - ¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
+   - ¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
 
 **2-2 La unidad de carga eléctrica: el coulumb**
 
@@ -204,8 +212,8 @@ Diagrama Esquemático de la Figura
    - Una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;1\&space;\mu&space;C" title="+1\ \mu C" /> y una carga de <img src="https://latex.codecogs.com/svg.latex?&plus;7\&space;\mu&space;C" title="+7\ \mu C" />, separadas <img src="https://latex.codecogs.com/svg.latex?10\&space;mm" title="10\ mm" />
     - <img src="https://latex.codecogs.com/svg.latex?Q_1&space;=&space;8\&space;\mu&space;C" title="Q_1 = 8\ \mu C" /> y <img src="https://latex.codecogs.com/svg.latex?Q_2&space;=&space;-4\&space;\mu&space;C" title="Q_2 = -4\ \mu C" />, separados <img src="https://latex.codecogs.com/svg.latex?12\&space;cm" title="12\ cm" />
      - Dos electrones separados <img src="https://latex.codecogs.com/svg.latex?12\times&space;10^{-8}\&space;m" title="12\times 10^{-8}\ m" />
-      - Un electrón y un protón separados <img src="https://latex.codecogs.com/svg.latex?5.3\times&space;10^{-11}\&space;m" title="5.3\times 10^{-11}\ m" />
-       - Un electrón y neutrón separados <img src="https://latex.codecogs.com/svg.latex?5.7\times&space;10^{-11}\&space;m" title="5.7\times 10^{-11}\ m" />
+     - Un electrón y un protón separados <img src="https://latex.codecogs.com/svg.latex?5.3\times&space;10^{-11}\&space;m" title="5.3\times 10^{-11}\ m" />
+     - Un electrón y neutrón separados <img src="https://latex.codecogs.com/svg.latex?5.7\times&space;10^{-11}\&space;m" title="5.7\times 10^{-11}\ m" />
 
 8. ¿Qué significado tiene decir que un cuerpo esta “cargado”?
 
@@ -455,10 +463,6 @@ tiempo de vida de la batería = (capacidad) / (consumo de corriente), donde t = 
 41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con una batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿Cuál es el tiempo estimado (en horas) que será capaz de usar?
 
 Resolucion.-
-
-tiempo de vida de la batería = (capacidad) / (consumo de corriente), aplicamos la de capcidad = 10 mA * 520 h, por que es la mas cercana a los 10 mA que se emplea segun la tabla => capacidad = 5200 mAh; Ahora con: consumo de corriente = 10 mA, entonces:
-
-t= 5200/10 horas => t 520 horas // Resp. 
 
 
 
