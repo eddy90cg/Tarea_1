@@ -506,7 +506,15 @@ El voltímetro y el amperímetro se intercambian. // Resp.
 
 Resolucion.-
 
+Planteamos los diagramas de circuitos según lo presentado en la tabla 2 - 2, y son: 
+
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado.png) // Resp.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-2.png) // Resp.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-3.png) // Resp.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-4.png) // Resp.
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen un especificación de voltaje. ¿Por qué?        
 
