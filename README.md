@@ -21,7 +21,7 @@ La realización de este informe consiste en practicar de manera teórica atravé
 
 
 
-# 2. MARCO TEÓRICO (RESUMEN)
+# 2. MARCO TEÓRICO
 
 CAPITULO 1.
 
