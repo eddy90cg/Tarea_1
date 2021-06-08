@@ -6,7 +6,7 @@
 
 #### RESUMEN
 
-La realizacion de este informe consiste en practicar de manera teorica atraves de ejericios toericos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas planteados vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis BAsicos de Correinte directa. En lo cual observaremos temas como: Sistema de unidades y conceptos basicos, Voltaje y COrriente, asi deminar los temas con la resolucion de los problemas correpsondientes a estos 2 capitulos señalados. 
+La realización de este informe consiste en practicar de manera teórica através de ejercicios teóricos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis Básicos de Correinte directa. En lo cual observaremos subtemas como: Sistema de unidades y conceptos basicos, Voltaje y Corriente, mediciones de corriente voltaje, uso del multímetro, entre otras correspondientes al área, así dominar la teoría y aplicar de una manera más acertada a la resolución de los problemas correspondientes a estos 2 capitulos señalados. 
 
 # 1. OBJETIVOS
 
