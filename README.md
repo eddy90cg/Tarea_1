@@ -34,6 +34,12 @@ CAPITULO 1.
 CAPITULO 2.
 
 
+![2 1](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/mentefacto%20cap%202%201.jpg)
+
+
+![2 1](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/mentefacto%20multimetro%20cap%202%202.png)
+
+
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 # CAP 1.
