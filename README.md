@@ -406,7 +406,7 @@ Resolucion.-
 
 a. Como esta conectado en serie el resultado de la Et = 1.47 + 1.61 + 1.58 [V] => Et = 4.66 [V] // Resp.
 
-b. El resultado seria serie y paralelo el E3 entonces primero sumamos las Et en serie: E12= 1.47 + 1.61 = 3.08 -> luego dividomos los valores entonces: Et= 1.50 V. // Resp.
+b. El resultado seria serie y paralelo el E3 entonces primero sumamos las Et en serie: E12= 1.47 + 1.61 = 3.08 -> luego dividimos los valores entonces: Et= 1.50 V. // Resp.
     
      
 36. ¿Cómo se carga una batería secundaria? haga un bosquejo. ¿Se puede cargar una batería primaria?
