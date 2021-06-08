@@ -6,7 +6,7 @@
 
 #### RESUMEN
 
-La realización de este informe consiste en practicar de manera teórica através de la resolución de los ejercicios planteados en cada capítulo del libro análisis de circuitos - Robbins, donde observaremos los temas vistos y revisados del : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis Básicos de Correinte directa. En lo cual observaremos subtemas como: Sistema de unidades y conceptos basicos, Voltaje y Corriente, mediciones de corriente voltaje, uso del multímetro, entre otras correspondientes al área, así dominar la teoría y aplicar de una manera más acertada a la resolución de los problemas correspondientes a estos 2 capitulos señalados. 
+La realización de este informe consiste en practicar de manera teórica através de ejercicios teóricos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis Básicos de Correinte directa. En lo cual observaremos subtemas como: Sistema de unidades y conceptos basicos, Voltaje y Corriente, mediciones de corriente voltaje, uso del multímetro, entre otras correspondientes al área, así dominar la teoría y aplicar de una manera más acertada a la resolución de los problemas correspondientes a estos 2 capitulos señalados. 
 
 # 1. OBJETIVOS
 
@@ -179,22 +179,46 @@ Diagrama Esquemático de la Figura
      ¿Cómo se ve afectada la fuerza entre ella si
      
    * Se duplica la magnitud de ambas cargas?
+     
+     La relación entre la magnitud y la fuerza es directamente proporcional, por ende, si la magnitud de las cargas aumenta, la fuerza también aumentará.
+     
    * Se triplica la distancia entre ella?
+     
+     La relación entre la distancia y la fuerza es inversamente proporcional, por ende, si la distancia entre cargas aumenta, la fuerza disminuirá.
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
 
+<img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{2Q_1&space;\cdot&space;3Q_2}{\frac{r}{2}^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{4Q_1&space;\cdot&space;6Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;24" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ F = k \frac{2Q_1 \cdot 3Q_2}{\frac{r}{2}^2} \\ \\ F = k \frac{4Q_1 \cdot 6Q_2}{r^2} \\ \\ F = 24" /> La fuerza será 24 veces mayor a la inicial.
+
 4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
+   El segundo material es el mejor conductor, ya que tiene menos electrones en su capa de valencia.
 
 5. Literales
    - ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
-    - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
-     - ¿Qué hace que un material sea un buen aislante?
-      - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
+     
+     Un material es buen conductor cuando tiene menos electrones en su capa de valencia, lo que permite que los mismos se muevan con gran soltura.
+     
+   - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
+     
+     El cobre es barato y se transforma con gran facilidad en alambre.
+     
+   - ¿Qué hace que un material sea un buen aislante?
+     
+     Un buen aislante es aquel que tiene llena o casi llena su última capa de electrones de valencia.
+     
+   - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
+     
+     La descarga de un rayo produce una gran cantidad de voltaje que hace que los electrones sean arrancados de sus átomos, lo cual provoca que exista conducción.
 
 6. Literales
    - Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
+     
+     El oro es usado debido a que se oxida menos que otros metales, su gran conductividad.
+     
     - ¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
+      
+      El aluminio se usa cuando el trabajo realizado requiere de un peso ligero.
 
 **2-2 La unidad de carga eléctrica: el coulumb**
 
@@ -400,22 +424,21 @@ ca: Se entiende en cambio como corriente alterna, es decir que es la corriente q
     a. Si E1 = 1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale Et?
     b. Si se invierte la conexión a la fuente 3, ¿ Cuánto vale Et? 
     
-    ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2033.png) 
+    ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2033.png)
 
 Resolucion.-
 
-a. Como esta conectado en serie el resultado de la Et = 1.47 + 1.61 + 1.58 [V] => Et = 4.66 [V] // Resp.
-
-b. El resultado seria serie y paralelo el E3 entonces primero sumamos las Et en serie: E12= 1.47 + 1.61 = 3.08 -> luego dividimos los valores entonces: Et= 1.50 V. // Resp.
+a. Como esta conectado en serie el resultado de la Et = 1.47 + 1.61 + 1.58 [V] => Et = 4.66 [V] 
+b. El resultado seria serie y paralelo el E3 entonces primero sumamos las Et en serie: E12= 1.47 + 1.61 = 3.08 -> luego dividomos los valores entonces: Et= 1.50 V.
     
      
 36. ¿Cómo se carga una batería secundaria? haga un bosquejo. ¿Se puede cargar una batería primaria?
 
 Resolucion.-
 
-![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/carga%20de%20bateria%20secundaria%20y%20primaria.jpg) // Resp.
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/carga%20de%20bateria%20secundaria%20y%20primaria.jpg)
 
-![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/carga%20de%20bateria%20secundaria%20y%20primaria%202.jpg) // Resp.
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/carga%20de%20bateria%20secundaria%20y%20primaria%202.jpg)
 
 37. Una batería especifica en 1 400 mAh suministra 28 mA a una carga. ¿ Cúanto tiempo se espera que dure? 
 
@@ -549,11 +572,9 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 # 6. BIBLIOGRAFÍA
 
-* Corriente eléctrica | Khan Academy , Recuperado de: https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica/.
+* Corriente eléctrica | Khan Academy , Recuperado de: https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica
 
 * Analisis de Circuito, Robbins Miller, LAZZARONI, Juan Carlos, cuarta edición.
-
-* Análisis de Circuitos En Ingeniería | Arreglos de Fuentes y Resistencias, Recuperado de: https://analisisdecircuitos1.wordpress.com/2014/08/27/capitulo-16-arreglos-de-fuentes-y-resistencias/. 
 
 RUBRICA
 
