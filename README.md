@@ -257,7 +257,7 @@ Diagrama Esquemático de la Figura
 
 11. La fuerza de repulsión entre dos cargas separadas <img src="https://latex.codecogs.com/svg.latex?50\&space;cm" title="50\ cm" /> es de <img src="https://latex.codecogs.com/svg.latex?0.02\&space;N" title="0.02\ N" />. Si <img src="https://latex.codecogs.com/svg.latex?Q_2&space;=&space;5Q_1" title="Q_2 = 5Q_1" />, determine las cargas y su posible signo
     
-    
+    <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;0.02\&space;N&space;=&space;9&space;\times&space;10^9&space;\frac{Nm^2}{C^2}&space;\cdot&space;\frac{|5Q_1|&space;\cdot&space;|Q_2|}{(0.5\&space;m)^2}&space;\\&space;\\&space;Despejamos\&space;Q_1\&space;y\&space;obtenemos&space;\\&space;Q_1&space;=&space;5(4.714&space;\times&space;10^{-7})&space;=&space;2.357&space;\times&space;10^{-6}\&space;C&space;\\&space;Q_2&space;=&space;4.714&space;\times&space;10^{-7}\&space;C" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ 0.02\ N = 9 \times 10^9 \frac{Nm^2}{C^2} \cdot \frac{|5Q_1| \cdot |Q_2|}{(0.5\ m)^2} \\ \\ Despejamos\ Q_1\ y\ obtenemos \\ Q_1 = 5(4.714 \times 10^{-7}) = 2.357 \times 10^{-6}\ C \\ Q_2 = 4.714 \times 10^{-7}\ C" />
 
 12. ¿Cuántos electrones representa una carga de <img src="https://latex.codecogs.com/svg.latex?1.63\&space;\mu&space;C" title="1.63\ \mu C" />?
 
