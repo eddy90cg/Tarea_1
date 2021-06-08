@@ -315,9 +315,9 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2034.png)
 
-43. La corriente en el circuitode la figura 2-25 es 9.17 mA. ¿ Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos.
+43. La corriente en el circuitode la figura 2-35 es 9.17 mA. ¿ Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos.
 
-![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2025.png)
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2035.png)
 
 44. ¿Cuál es el error en la afimración de que el voltaje a través de la lámpara de la figura 2-24 es 70.3 V ?
 
