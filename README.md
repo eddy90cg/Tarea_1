@@ -307,17 +307,67 @@ entonces: Q = 1.4976 * 10^-5 C. -> t = 5 * 10^-3 s -> I = ? => I = (1.4976 * 10^
     b. ¿Cuánta carga ha pasado en t= 8 s?
     c. ¿Cúal es la corriente en ampres?
     
+Resolucion.- 
+
+a. Decimos, si: Q = 10t+4 => si t = 5 => Q = 10(5)+4 -> Q = 54 C.
+
+b. Decimos, si: Q = 10t+4 => si t = 8 => Q = 10(8)+4 -> Q = 84 C.
+
+c. Decimos,si: Q = 54 C. con t = 5 => I = 54/5 -> I = 10.8 A.// Resp. ; Tambien,si: Q = 84 C, con t = 8 => I= 84/8 A. -> I = 10.5 A. // Resp.
+    
 31. La carga que pasa a través de un alhambre es q = (80t+20)C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+
+Resolucion.- 
+
+a. Decimos, si: Q = 80t+20 => si t = 1 => Q = 80(1)+20 -> Q = 100 C.
+
+b. Decimos, si: Q = 80t+20 => si t = 2 => Q = 80(2)+20 -> Q = 180 C.
+
+c. Decimos,si: Q = 100 C. con t = 1 => I = 100/1 A. -> I = 100 A.//  ; Tambien,si: Q = 180 C, con t = 2 => I= 180/2 A. -> I = 90 A. // 
+
+Concluimos que: La Q crecera directamente proporcial conforme t crezca, si t>=0 -> Q >=t , y si la t crece en cambio la I es inversamente proporcional y crezca segun t, si t>=0 -> I <=t . // Resp.
 
 32. ¿Cuánto tiempo le toma a 312*10^19 electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2032.png)
 
+Resolucion.- 
+
+Decimos que: La cantidad de electrones que tiene 1 Coulomb es de: 6.25x10^18, entonces si tenemos Q = 312*10^19 electrones -> Q = (312*10^19) / (6.25x10^18) C. -> Q =  2496/5 C. -> Q = 499.2 C. //
+
+Ahora: Para resolver ele ejericio aplicamos la formula:
+
+Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
+
+entonces: Q = 499.2 C. -> I = 8 A. => t = 499.2/8 s. => t = 312/5 s. => t = 62.4 s. // Resp.
+
 33. Si se requieren 1 353.6 J para mover 47*10^19 electrone a través de la lámpara de la figura 2-32 en 1.3 min, ¿Cuánto valen E e I?
+
+Resolucion.-
+
+Para resolver ele ejercicio aplicamos la formula:
+
+V= ΔU / Q , donde Q es carga , V es Voltaje y ΔU es variacion de energía aplicada o W.
+
+Ahora decimos que: La cantidad de electrones que tiene 1 Coulomb es de: 6.25x10^18, entonces si tenemos Q = 47*10^19 electrones -> Q = ( 47*10^19) / (6.25x10^18) C. -> Q = 75.2 C.
+
+Entonces continuamos con: W = ΔU = 1 353.6 J. , Q = 75.2 C. => V =  1 353.6 / 75.2 V. => V = 18 V. y eso nos equivale E = fuente de voltaje - > E = V -> E = 18 V.// Resp. 
+
+Tambien: Para resolver el ejercicio aplicamos la formula:
+
+Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
+
+Decimos: I = ?? -> Q = 75.2 C. -> t = 1.3 min o t = 1.3 * 60 s. -> t = 78 s. => I = 75.2 / 78 => I =  188/195 A. => I = 0.964 A. // Resp.
+
 
 **2-5 Fuentes de voltaje de cd prácticas**
 
 34. ¿Qué se entiende por cd?, ¿y por ca?
+
+Resolucion.-
+
+cd: Se entiende por cd como corriente directa, es decir que va en una sola direccion el flujo de electrones sin variar en el recorrido su intensidad.
+ca: Se entiende en cambio como corriente alterna, es decir que es la corriente que cambia de direccion en su recorrido de maner ciclica, esto es, las cargas fluyen de manera alternada en una dirección y después en la otra dentro del circuito. // Resp.
 
 35. Considere tres baterías conectadas como en la figura 2-33.
     a. Si E1 = 1.47 V, E2 = 1.61 V y E3 = 1.58 V, ¿Cuánto vale Et?
