@@ -6,7 +6,7 @@
 
 #### RESUMEN
 
-La realización de este informe consiste en practicar de manera teórica através de ejercicios teóricos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis Básicos de Correinte directa. En lo cual observaremos subtemas como: Sistema de unidades y conceptos basicos, Voltaje y Corriente, mediciones de corriente voltaje, uso del multímetro, entre otras correspondientes al área, así dominar la teoría y aplicar de una manera más acertada a la resolución de los problemas correspondientes a estos 2 capitulos señalados. 
+La realizacion de este informe consiste en practicar de manera teorica atraves de ejericios toericos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas planteados vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis BAsicos de Correinte directa. En lo cual observaremos temas como: Sistema de unidades y conceptos basicos, Voltaje y COrriente, asi deminar los temas con la resolucion de los problemas correpsondientes a estos 2 capitulos señalados. 
 
 # 1. OBJETIVOS
 
@@ -175,7 +175,12 @@ Diagrama Esquemático de la Figura
      ¿Cómo se ve afectada la fuerza entre ella si
      
    * Se duplica la magnitud de ambas cargas?
+     
+     La relación entre la magnitud y la fuerza es directamente proporcional, por ende, si la magnitud de las cargas aumenta, la fuerza tambien aumentará.
+     
    * Se triplica la distancia entre ella?
+     
+     La relación entre la distancia y la fuerza es inversamente proporcional, por ende, si la distancia entre cargas aumenta, la fuerza disminuirá.
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
 
