@@ -186,6 +186,58 @@ Demuestre que 1 hp = 746 W.
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2040.png)
 
+41. Determine los valores que se deben insertar en el espacio en blanco.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2041.png)
+
+42. Realice las operaciones y exprese las respuestas en las unidades que se indican.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2042.png)
+
+43. Realice las operaciones y exprese las respuestas en las unidades que se indican.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2043.png)
+
+44. El voltaje de una línea de transmisión de alto voltaje es de 1.15 × 10^5V.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2044.png)
+
+45. Se compra un radiador eléctrico de 1500 W para calentar una habitación.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2040.png)
+
+46. Considere la ﬁgura 1-11. Como aprenderá en el capítulo 6,  I4 =I1 + I2 + I3. Si I1 =1.25 mA, I2 =350 µA e I3=250 〖×10〗^(-5)A, ¿cuánto vale I4?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046.png)
+
+47. Para la ﬁgura 1-12,  I1 + I2 - I3 +I4=0. Si I1 =12 A, I2 =0.150 kA e I4=250 〖×10〗^(-1)A, ¿cuánto vale I3?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2047.png)
+
+48. En cierto circuito, V1=V2- V3-V4. Si V1=120 mA, V2 =5000 µV y V3=20 〖×10〗^(-4)V, ¿cuánto vale V4?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2048.png)
+
+49. Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmfd. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que signiﬁca “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿cuál será el valor equivalente a 39 “micromicrofarads”?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2049.png)
+
+50. a. Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms, ¿a cuántos electrones equivale esto?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2050.png)
+
+51. Una señal de radio viaja a 299 792.458 km/s y una señal telefónica a 150 m/µs. Si ambas se originan en el mismo punto, ¿cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2051.png)
+
+52. En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P=V×I watts.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2052.png)
+
+53. En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R = V ÷ I ohms.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2053.png)
+
 56 . Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
 
