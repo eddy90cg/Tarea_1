@@ -149,7 +149,7 @@ Demuestre que 1 hp = 746 W.
 30. La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal.
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2030.png)
-
+ 
 31. Si 6.24 ×10^18 electrones pasan a través de un alambre en 1 s, ¿cuántos pasan a través de él durante un intervalo de 2 hr, 47 min y 10 s?
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2031.png)
