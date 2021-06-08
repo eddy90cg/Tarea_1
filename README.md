@@ -6,7 +6,7 @@
 
 #### RESUMEN
 
-La realizacion de este informe consiste en practicar de manera teorica atraves de ejericios toericos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas planteados vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis BAsicos de Correinte directa. En lo cual observaremos temas como: Sistema de unidades y conceptos basicos, Voltaje y COrriente, asi deminar los temas con la resolucion de los problemas correpsondientes a estos 2 capitulos señalados. 
+La realización de este informe consiste en practicar de manera teórica através de ejercicios teóricos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis Básicos de Correinte directa. En lo cual observaremos subtemas como: Sistema de unidades y conceptos basicos, Voltaje y Corriente, mediciones de corriente voltaje, uso del multímetro, entre otras correspondientes al área, así dominar la teoría y aplicar de una manera más acertada a la resolución de los problemas correspondientes a estos 2 capitulos señalados. 
 
 # 1. OBJETIVOS
 
@@ -32,6 +32,10 @@ CAPITULO 1.
 
 
 CAPITULO 2.
+
+![2 1](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/mentefacto%20cap%202%201.jpg)
+
+![2 2](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/mentefacto%20multimetro%20cap%202%202.png)
 
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -175,12 +179,7 @@ Diagrama Esquemático de la Figura
      ¿Cómo se ve afectada la fuerza entre ella si
      
    * Se duplica la magnitud de ambas cargas?
-     
-     La relación entre la magnitud y la fuerza es directamente proporcional, por ende, si la magnitud de las cargas aumenta, la fuerza tambien aumentará.
-     
    * Se triplica la distancia entre ella?
-     
-     La relación entre la distancia y la fuerza es inversamente proporcional, por ende, si la distancia entre cargas aumenta, la fuerza disminuirá.
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
 
@@ -519,7 +518,15 @@ El voltímetro y el amperímetro se intercambian. // Resp.
 
 Resolucion.-
 
+Aplicamos la resolución mediante lo señalado en la tabla 2-2 los diferentes diagramas a cada caso presentado: 
+
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado.png) // Resp.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-3.png) // Resp.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-2.png) // Resp.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046%20diagrama%20dibujado%201-4.png) // Resp.
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen un especificación de voltaje. ¿Por qué?        
 
