@@ -31,17 +31,6 @@ CAPITULO 1.
 ![1 2](https://user-images.githubusercontent.com/84453557/121117137-44266980-c7dd-11eb-817e-f7976042ebf0.png)
 
 
-
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
-
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
-
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
-
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 # CAP 1.
@@ -132,12 +121,7 @@ Demuestre que 1 hp = 746 W.
 26.	Para cada una de las siguientes cantidades, convierta los números a notación científica, después realice los cálculos que se indican. Redondee su respuesta a 4 dígitos.
 ![26](https://user-images.githubusercontent.com/84453557/121058970-8c666d00-c786-11eb-8231-453263c223cf.png)
 
-27. Realice lo siguiente,
 
-  a)	Convierta los números a notación de potencias de diez, después realice los cálculos que se indican,
-
-  b)	realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?
-![27](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046.png)
 
 56 . Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
@@ -455,6 +439,9 @@ tiempo de vida de la batería = (capacidad) / (consumo de corriente), donde t = 
 
 Resolucion.-
 
+Aplicamos: t = capacidad / consumo de corriente => conusmo inicial = 5.0 * 520 mAh => capacidad = 2600 mAh, entonces:
+
+consumo de corriente 10 mA; decimos: t = 2600 / 10 horas => t = 260 horas // Resp.
 
 
 **2-6 Medición de voltaje y corriente**
