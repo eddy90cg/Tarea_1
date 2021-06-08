@@ -716,6 +716,8 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 * Arreglos de Fuentes y Resistencias | Análisis de Circuitos En Ingeniería, Recuperado de: https://analisisdecircuitos1.wordpress.com/2014/08/27/capitulo-16-arreglos-de-fuentes-y-resistencias/.  
 
+* Circuitos Eléctricos y Aplicaciones Digitales, Villaseñor Jorge, Segunda Edición 
+
 RUBRICA
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
