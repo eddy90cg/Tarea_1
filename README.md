@@ -191,6 +191,8 @@ Diagrama Esquemático de la Figura
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
    
    <img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{2Q_1&space;\cdot&space;3Q_2}{\frac{r^2}{2}}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{4Q_1&space;\cdot&space;6Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;24" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ F = k \frac{2Q_1 \cdot 3Q_2}{\frac{r^2}{2}} \\ \\ F = k \frac{4Q_1 \cdot 6Q_2}{r^2} \\ \\ F = 24" /> 
+   
+   La Fuerza será 24 veces mayor a la inicial
 
 4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
@@ -198,13 +200,29 @@ Diagrama Esquemático de la Figura
 
 5. Literales
    - ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y los electrones libres.)
+     
+     Un material es buen conductor cuando tienen un gran número de electrónes libres, es decir, tienen menos electrones en su última capa de valencia.
+     
    - Además de ser un buen conductor, mencione otras dos razones por las que le cobre es ampliamente usado.
+     
+     El cobre es barato y se transforma con facilidad en alambre.
+     
    - ¿Qué hace que un material sea un buen aislante?
+     
+     Un material será un buen aislante cuando sus capas de valencia estan llenas o casi llenas, lo que hace que sus electrones estén estrechamente ligados y no conduzcan energía. 
+     
    - Normalmente el aire es un aislante; sin embargo, durante las descargas de rayos hay conducción. Discuta brevemente el mecanismo de flujo de carga en esta descarga.
+     
+     Este sucede porque se aplica una gran cantidad de voltaje, lo cual hace que los electrones sean arrancados de sus átomos y esto provoca que haya conducción.
 
 6. Literales
    - Aunque el oro es muy caro, en ocasiones se usa en electrónica como recubrimiento de contactos. ¿Por qué?
+     
+     Porque se oxida menos que otros materiales, tiene alta conductividad y la corrosión no lo afecta.
+     
    - ¿Por qué algunas veces se usa el aluminio cuando su conductividad es solo 60% de la del cobre?
+     
+     Es usado generalmente en trabajo en los el peso ligero es muy importante. 
 
 **2-2 La unidad de carga eléctrica: el coulumb**
 
