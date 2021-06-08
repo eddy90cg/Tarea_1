@@ -288,10 +288,30 @@ entonces Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A
 
 37. Una batería especifica en 1 400 mAh suministra 28 mA a una carga. ¿ Cúanto tiempo se espera que dure? 
 
-38.
+38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 
+ -  con un consumo de corrriente de 10 mA, de 50mA y de 100 mA? ¿Qué cpncluye de estos resultados? 
 
-    
+39. La batería de la figura 2 - 15 está especficada en 81 Ah a 5° C ¿ Cuál es el tiempo de vida esperando ( en horas ) con un consumo de corriente de 5 A a -15° C?
 
+40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 ! a 25 ° C ¿Cuánto espera que dure a 5 ° C consumo de corriente de 0.8 A?
+
+41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con una batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿Cuál es el tiempo estimado (en horas) que será capaz de usar?
+
+**2-6 Medición de voltaje y corriente**
+
+42. El voltímetro digital de la figura 2 - 34 tiene la caracterísitca de autopolaridad. Para cada caso, determine su lectura.
+
+43. La corriente en el circuitode la figura 2-25 es 9.17 mA. ¿ Cuál amperímetro indica correctamente la corriente? (a) El medidor 1, (b) el medidor 2, (c) ambos.
+
+44. ¿Cuál es el error en la afimración de que el voltaje a través de la lámpara de la figura 2-24 es 70.3 V ?
+
+45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36 ? Corríjalo. 
+
+**2-7 Interruptores, fusible e interruptores automaticos**
+
+46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+
+47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen un especificación de voltaje. ¿Por qué?        
 
 
 
