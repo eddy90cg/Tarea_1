@@ -151,7 +151,7 @@ Diagrama Esquemático de la Figura
 
 **Capítulo 2: Conceptos fundamentales de cd  - Voltaje y Corriente**
 
-**2-1 Revisión de la teoría atómica**
+**2-1 Revisión de la teoría atómica:**
 
 1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
    * 1 metro cúbico de alambre
@@ -239,7 +239,7 @@ Diagrama Esquemático de la Figura
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-1.png)
 
-**2-4 Corriente**
+**2-4 Corriente:**
 
 24. Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos ¿Cuál es la corriente en amperes?
 
@@ -369,7 +369,7 @@ Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de tran
 Decimos: I = ?? -> Q = 75.2 C. -> t = 1.3 min o t = 1.3 * 60 s. -> t = 78 s. => I = 75.2 / 78 => I =  188/195 A. => I = 0.964 A. // Resp.
 
 
-**2-5 Fuentes de voltaje de cd prácticas**
+**2-5 Fuentes de voltaje de cd prácticas:**
 
 34. ¿Qué se entiende por cd?, ¿y por ca?
 
@@ -454,7 +454,7 @@ tiempo de vida de la batería = (capacidad) / (consumo de corriente), aplicamos 
 
 t= 5200/10 horas => t = 520 horas // Resp. 
 
-**2-6 Medición de voltaje y corriente**
+**2-6 Medición de voltaje y corriente:**
 
 42. El voltímetro digital de la figura 2 - 34 tiene la caracterísitca de autopolaridad. Para cada caso, determine su lectura.
 
@@ -492,7 +492,7 @@ Resolucion.-
 El voltímetro y el amperímetro se intercambian. // Resp.
 
 
-**2-7 Interruptores, fusible e interruptores automaticos**
+**2-7 Interruptores, fusible e interruptores automaticos:**
 
 46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
 
@@ -522,7 +522,9 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 # 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+* Corriente eléctrica | Khan Academy , Recuperado de: https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica
+
+* Analisis de Circuito, Robbins Miller, LAZZARONI, Juan Carlos, cuarta edición.
 
 RUBRICA
 
