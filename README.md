@@ -21,6 +21,8 @@ La realización de este informe consiste en practicar de manera teórica atravé
 
 - Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.  
 
+- Analizar y comprender cada una de las fórmulas aplicadas a los circuitos electricos para aplicarlas en laboratorios y los ejercicios correspondientes.
+
 
 # 2. MARCO TEÓRICO
 
@@ -698,9 +700,8 @@ Porque si se excede la especificación de voltaje del fusible, se puede producir
 
 # 4. VIDEO
 
-link del video:
-
-https://youtu.be/G_dxHD5Rs2Y
+Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
+En el video se debe explicar 4 ejercicios o problemas.
 
 
 # 5. CONCLUSIONES
@@ -708,6 +709,8 @@ https://youtu.be/G_dxHD5Rs2Y
  * Concluímos que al aplicar la teoria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente sus respectivas undiades.
  
  * Finalmente después de haber realizado un análisis profundo de cada tema tratado, pudimos observar que gracias al análisis realizado por cada uno se pudo obtener un mayor conocimiento y así poder realizar el cálculo necesario para la resolución de problemas, los cuales nos brindan un gran avance en el análisis de circuitos.
+ 
+ * Luego de revisar atentamente el contenido expuesto en el texto guía podemos concluir que las fo´rmulas expuestas fueron comprendidas y aplicadas en base a los ejercicios propuestos.
 
 # 6. BIBLIOGRAFÍA
 
