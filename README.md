@@ -342,15 +342,15 @@ Concluimos que: La Q crecera directamente proporcial conforme t crezca, si t>=0 
 
 Resolucion.- 
 
-Decimos que: La cantidad de electrones que tiene 1 Coulomb es de: 6.25x10^18, entonces si tenemos Q = 312*10^19 electrones -> Q = (312*10^19) / (6.25x10^18) C. -> Q =  2496/5 C. -> Q = 499.2 C. //
+Decimos que: La cantidad de electrones que tiene 1 Coulomb es de: 6.25 x 10^18, entonces si tenemos Q = 312 * 10^19 electrones -> Q = (312*10^19) / (6.25x10^18) C. -> Q =  2496/5 C. -> Q = 499.2 C. //
 
-Ahora: Para resolver ele ejericio aplicamos la formula:
+Ahora: Para resolver el ejercicio aplicamos la formula:
 
 Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
 
 entonces: Q = 499.2 C. -> I = 8 A. => t = 499.2/8 s. => t = 312/5 s. => t = 62.4 s. // Resp.
 
-33. Si se requieren 1 353.6 J para mover 47*10^19 electrone a través de la lámpara de la figura 2-32 en 1.3 min, ¿Cuánto valen E e I?
+33. Si se requieren 1 353.6 J para mover 47 * 10^19 electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿Cuánto valen E e I?
 
 Resolucion.-
 
@@ -358,7 +358,7 @@ Para resolver ele ejercicio aplicamos la formula:
 
 V= ΔU / Q , donde Q es carga , V es Voltaje y ΔU es variacion de energía aplicada o W.
 
-Ahora decimos que: La cantidad de electrones que tiene 1 Coulomb es de: 6.25x10^18, entonces si tenemos Q = 47*10^19 electrones -> Q = ( 47*10^19) / (6.25x10^18) C. -> Q = 75.2 C.
+Ahora decimos que: La cantidad de electrones que tiene 1 Coulomb es de: 6.25 x 10^18, entonces si tenemos Q = 47 * 10^19 electrones -> Q = ( 47 * 10^19) / (6.25 x 10^18) C. -> Q = 75.2 C.
 
 Entonces continuamos con: W = ΔU = 1 353.6 J. , Q = 75.2 C. => V =  1 353.6 / 75.2 V. => V = 18 V. y eso nos equivale E = fuente de voltaje - > E = V -> E = 18 V.// Resp. 
 
@@ -400,6 +400,8 @@ Resolucion.-
 
 37. Una batería especifica en 1 400 mAh suministra 28 mA a una carga. ¿ Cúanto tiempo se espera que dure? 
 
+Resolucion.-
+
 Planteamos:
 
 tiempo de vida de la batería = (capacidad) / (consumo de corriente) , donde: capacidad = 1 400 mAh tambien decimos capacidad = 14 mA * 100 horas ; consumo de coriente = 28 mA
@@ -411,6 +413,8 @@ entonces: t = 1400 / 28 h. => t = 50 horas // Resp.
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/tabla%202-1.png)
 
+Resolucion.-
+
 Planteamos:
 
 tiempo de vida de la batería = (capacidad) / (consumo de corriente) , donde:  capacidad = 5.0  mA * 520 horas ; consumo de coriente = 10 mA y capacidad = 25.0  mA * 1150 horas ; consumo de coriente = 50 mA y capacidad = 50.0  mA * 53 horas ; consumo de coriente = 100 mA
@@ -421,6 +425,14 @@ entonces: t1 = (5.0*520) / 10 h. => t = 260  horas // Resp. ; t2 = (25.0*1150) /
 39. La batería de la figura 2 - 15 está especficada en 81 Ah a 5° C ¿ Cuál es el tiempo de vida esperando ( en horas ) con un consumo de corriente de 5 A a -15° C?
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2015.png)
+
+Resolucion.-
+
+A partir de la gráfica la capacidad a -15° C baja un 25 % de su valor a 5° C; por lo tanto, la capacidad = 0.25 * 81 =  20.25 Ah. -> 81 - 20.25 = 60.75 Ah el empleado neto.
+
+Planteamos:
+
+tiempo de vida de la batería = (capacidad) / (consumo de corriente), donde t = (60.75 / 5) h. => t = 11.7 horas // Resp.
 
 40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 ! a 25 ° C ¿Cuánto espera que dure a 5 ° C consumo de corriente de 0.8 A?
 
