@@ -28,7 +28,8 @@ CAPITULO 1.
 ![1 1](https://user-images.githubusercontent.com/84453557/121117107-3a046b00-c7dd-11eb-90a2-903f3db33c96.png)
 
 
-![1 2](https://user-images.githubusercontent.com/84453557/121117265-7b951600-c7dd-11eb-9ba9-7c2c80657b73.png)
+![1 2](https://user-images.githubusercontent.com/84453557/121117452-c151de80-c7dd-11eb-87a3-110fee5d2683.png)
+
 
 
 
