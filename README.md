@@ -6,7 +6,7 @@
 
 #### RESUMEN
 
-La realización de este informe consiste en practicar de manera teórica através de ejercicios teóricos planteados sobre el libro analisis de circuitos - Robbins, donde practicaremos sobre los temas vistos y revisados de : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis Básicos de Correinte directa. En lo cual observaremos subtemas como: Sistema de unidades y conceptos basicos, Voltaje y Corriente, mediciones de corriente voltaje, uso del multímetro, entre otras correspondientes al área, así dominar la teoría y aplicar de una manera más acertada a la resolución de los problemas correspondientes a estos 2 capitulos señalados. 
+La realización de este informe consiste en practicar de manera teórica através de la resolución de los ejercicios planteados en cada capítulo del libro análisis de circuitos - Robbins, donde observaremos los temas vistos y revisados del : CAP 1. Conceptos fundamentales de corriente directa, CAP 2. Analisis Básicos de Correinte directa. En lo cual observaremos subtemas como: Sistema de unidades y conceptos basicos, Voltaje y Corriente, mediciones de corriente voltaje, uso del multímetro, entre otras correspondientes al área, así dominar la teoría y aplicar de una manera más acertada a la resolución de los problemas correspondientes a estos 2 capitulos señalados. 
 
 # 1. OBJETIVOS
 
@@ -182,8 +182,6 @@ Diagrama Esquemático de la Figura
    * Se triplica la distancia entre ella?
 
 3. Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ella se reduce a la mitad, ¿Cómo se ve afectada la fuerza?
-
-<img src="https://latex.codecogs.com/svg.latex?F&space;=&space;k&space;\frac{Q_1&space;\cdot&space;Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{2Q_1&space;\cdot&space;3Q_2}{\frac{r}{2}^2}&space;\\&space;\\&space;F&space;=&space;k&space;\frac{4Q_1&space;\cdot&space;6Q_2}{r^2}&space;\\&space;\\&space;F&space;=&space;24" title="F = k \frac{Q_1 \cdot Q_2}{r^2} \\ \\ F = k \frac{2Q_1 \cdot 3Q_2}{\frac{r}{2}^2} \\ \\ F = k \frac{4Q_1 \cdot 6Q_2}{r^2} \\ \\ F = 24" /> La fuerza será 24 veces mayor a la inicial.
 
 4. Cierto material tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
 
