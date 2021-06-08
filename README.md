@@ -698,8 +698,9 @@ Porque si se excede la especificación de voltaje del fusible, se puede producir
 
 # 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
+link del video:
+
+https://youtu.be/G_dxHD5Rs2Y
 
 
 # 5. CONCLUSIONES
