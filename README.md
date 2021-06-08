@@ -136,7 +136,20 @@ Demuestre que 1 hp = 746 W.
   
   b)	realice la operación directamente en la calculadora sin conversión. ¿Cuál es su conclusión?
   
-![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2046.png)
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2027.png)
+
+28. Exprese cada una de las siguientes cantidades en notación convencional: 
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2028.png)
+
+29. Un coulomb (capítulo 2) es la cantidad de carga representada por 6 240 000 000 000 000 000 electrones. Exprese esta cantidad en notación de potencias de diez.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2029.png)
+
+30. La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9 kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de cero a la izquierda del punto decimal.
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/ejer%2030.png)
+
 
 56 . Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
