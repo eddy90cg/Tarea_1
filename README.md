@@ -406,7 +406,7 @@ Diagrama Esquemático de la Figura
 
 22. Si el voltaje entre dos puntos de <img src="https://latex.codecogs.com/svg.latex?100\&space;V" title="100\ V" />, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
     
-    
+    <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;\frac{W}{Q}&space;\\&space;\\&space;W&space;=&space;V&space;\cdot&space;Q&space;\\&space;\\&space;W&space;=&space;100V&space;\cdot&space;-1.6&space;\times&space;10^{-19}&space;C&space;=&space;-1.6&space;\times&space;10^{-17}\&space;J" title="V = \frac{W}{Q} \\ \\ W = V \cdot Q \\ \\ W = 100V \cdot -1.6 \times 10^{-19} C = -1.6 \times 10^{-17}\ J" />
 
 23. Dado el voltaje de <img src="https://latex.codecogs.com/svg.latex?12\&space;V" title="12\ V" /> para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren <img src="https://latex.codecogs.com/svg.latex?57\&space;J" title="57\ J" /> de energía para moverla?
 
