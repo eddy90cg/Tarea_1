@@ -263,7 +263,7 @@ Para resolver ele ejericio aplicamos la formula:
 
 Q = I x t, donde Q es carga , I es intensidad de corriente y t es tiempo de transferencia.
 
-entonces: Q= 250 µC-> 250*10^-6 C , t= 5 ms -> 5*10-3 s => I = 1/20 => I= 0.05 A o I= 500µA.// Resp.
+entonces: Q= 250 µC-> 250 * 10^-6 C , t= 5 ms -> 5 * 10-3 s => I = 1/20 => I= 0.05 A o I= 500µA.// Resp.
 
 26. Si la corriente I=4 en la figura 2-1, ¿Cuántos coulumbs pasan a través de la lámpara en 7 ms? 
 
@@ -434,9 +434,23 @@ Planteamos:
 
 tiempo de vida de la batería = (capacidad) / (consumo de corriente), donde t = (60.75 / 5) h. => t = 11.7 horas // Resp.
 
-40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 ! a 25 ° C ¿Cuánto espera que dure a 5 ° C consumo de corriente de 0.8 A?
+40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A. a 25 ° C ¿Cuánto espera que dure a 5 ° C consumo de corriente de 0.8 A?
+
+Resolucion.-
+
+Aplicamos: t = capacidad / consumo de corriente => 17 * 1.5 = cacpacidad => capacidad = 25.5 Ah.//
+
+A partir de la gráfica la capacidad a 10 ° C baja un 10 % de su valor a 5° C; por lo tanto, la capacidad = 0.10 * 25.5 = 0.25 Ah. -> 25.5 - 0.25 = 25.25// Ah el empleado neto.
+
+Planteamos:
+
+tiempo de vida de la batería = (capacidad) / (consumo de corriente), donde t = (25.25 / 0.8) h. => t = 31.5625 horas // Resp.
 
 41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con una batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿Cuál es el tiempo estimado (en horas) que será capaz de usar?
+
+Resolucion.-
+
+
 
 **2-6 Medición de voltaje y corriente**
 
