@@ -28,8 +28,7 @@ CAPITULO 1.
 ![1 1](https://user-images.githubusercontent.com/84453557/121117107-3a046b00-c7dd-11eb-90a2-903f3db33c96.png)
 
 
-![1 2](https://user-images.githubusercontent.com/84453557/121117452-c151de80-c7dd-11eb-87a3-110fee5d2683.png)
-
+![1 2](https://user-images.githubusercontent.com/84453557/121117137-44266980-c7dd-11eb-817e-f7976042ebf0.png)
 
 
 
@@ -384,6 +383,7 @@ ca: Se entiende en cambio como corriente alterna, es decir que es la corriente q
     b. Si se invierte la conexión a la fuente 3, ¿ Cuánto vale Et? 
     
     ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/fig%202%20-%2033.png)
+
 Resolucion.-
 
 a. Como esta conectado en serie el resultado de la Et = 1.47 + 1.61 + 1.58 [V] => Et = 4.66 [V] 
@@ -391,6 +391,12 @@ b. El resultado seria serie y paralelo el E3 entonces primero sumamos las Et en 
     
      
 36. ¿Cómo se carga una batería secundaria? haga un bosquejo. ¿Se puede cargar una batería primaria?
+
+Resolucion.-
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/carga%20de%20bateria%20secundaria%20y%20primaria.jpg)
+
+![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/carga%20de%20bateria%20secundaria%20y%20primaria%202.jpg)
 
 37. Una batería especifica en 1 400 mAh suministra 28 mA a una carga. ¿ Cúanto tiempo se espera que dure? 
 
