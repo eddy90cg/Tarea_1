@@ -398,13 +398,21 @@ Diagrama Esquemático de la Figura
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-23.png)
 
+<img src="https://latex.codecogs.com/svg.latex?V&space;=&space;\frac{W}{Q}&space;\\&space;\\&space;W&space;=&space;V&space;\cdot&space;Q&space;\\&space;\\&space;W&space;=&space;4720\&space;mV&space;\cdot&space;20\&space;mC&space;=&space;94.4\&space;J" title="V = \frac{W}{Q} \\ \\ W = V \cdot Q \\ \\ W = 4720\ mV \cdot 20\ mC = 94.4\ J" />
+
 21. ¿Cuánta energía adquiere una carga de <img src="https://latex.codecogs.com/svg.latex?0.5\&space;\mu&space;C" title="0.5\ \mu C" /> conforme se mueve a través de una diferencia de potencial de <img src="https://latex.codecogs.com/svg.latex?8.5\&space;kV" title="8.5\ kV" />?
+    
+    <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;\frac{W}{Q}&space;\\&space;\\&space;W&space;=&space;V&space;\cdot&space;Q&space;\\&space;\\&space;W&space;=&space;8500\&space;V&space;\cdot&space;0.5&space;\times&space;10^{-6}&space;\&space;C&space;=4.25\&space;mJ" title="V = \frac{W}{Q} \\ \\ W = V \cdot Q \\ \\ W = 8500\ V \cdot 0.5 \times 10^{-6} \ C =4.25\ mJ" />
 
 22. Si el voltaje entre dos puntos de <img src="https://latex.codecogs.com/svg.latex?100\&space;V" title="100\ V" />, ¿Cuánta energía se requiere para mover un electrón entre los dos puntos?
+    
+    
 
 23. Dado el voltaje de <img src="https://latex.codecogs.com/svg.latex?12\&space;V" title="12\ V" /> para la batería de la figura 2-1, ¿Cuánta carga se mueve a través de la lámpara si se requieren <img src="https://latex.codecogs.com/svg.latex?57\&space;J" title="57\ J" /> de energía para moverla?
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/Fig.2-1.png)
+
+<img src="https://latex.codecogs.com/svg.latex?V&space;=&space;\frac{W}{Q}&space;\\&space;\\&space;Q&space;=&space;\frac{W}{v}&space;\\&space;\\&space;Q&space;=&space;\frac{57\&space;J}{12\&space;V}&space;=&space;4.75\&space;C" title="V = \frac{W}{Q} \\ \\ Q = \frac{W}{v} \\ \\ Q = \frac{57\ J}{12\ V} = 4.75\ C" />
 
 **2-4 Corriente:**
 
