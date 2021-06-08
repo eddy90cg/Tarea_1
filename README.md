@@ -387,7 +387,7 @@ ca: Se entiende en cambio como corriente alterna, es decir que es la corriente q
 Resolucion.-
 
 a. Como esta conectado en serie el resultado de la Et = 1.47 + 1.61 + 1.58 [V] => Et = 4.66 [V] 
-b. El resultado seria serie y paralelo el E3 entonces primero sumamos las Et en serie: E12= 1.47 + 1.61 = 3.08 -> Et= 3V.
+b. El resultado seria serie y paralelo el E3 entonces primero sumamos las Et en serie: E12= 1.47 + 1.61 = 3.08 -> luego dividomos los valores entonces: Et= 1.50 V.
     
      
 36. ¿Cómo se carga una batería secundaria? haga un bosquejo. ¿Se puede cargar una batería primaria?
@@ -400,11 +400,22 @@ Resolucion.-
 
 37. Una batería especifica en 1 400 mAh suministra 28 mA a una carga. ¿ Cúanto tiempo se espera que dure? 
 
+Planteamos:
+
+tiempo de vida de la batería = (capacidad) / (consumo de corriente) , donde: capacidad = 1 400 mAh tambien decimos capacidad = 14 mA * 100 horas ; consumo de coriente = 28 mA
+
+entonces: t = 1400 / 28 h. => t = 50 horas // Resp.
+
 38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2
  - 1  con un consumo de corrriente de 10 mA, de 50mA y de 100 mA? ¿Qué concluye de estos resultados? 
 
 ![](https://github.com/eddy90cg/Tarea_1/blob/main/Anexos/tabla%202-1.png)
 
+Planteamos:
+
+tiempo de vida de la batería = (capacidad) / (consumo de corriente) , donde:  capacidad = 5.0  mA * 520 horas ; consumo de coriente = 10 mA y capacidad = 25.0  mA * 1150 horas ; consumo de coriente = 50 mA y capacidad = 50.0  mA * 53 horas ; consumo de coriente = 100 mA
+
+entonces: t1 = (5.0*520) / 10 h. => t = 260  horas // Resp. ; t2 = (25.0*1150) / 50 h. => t = 575  horas // Resp. ; t3 = (50.0*53) / 100 h. => t = 26.5  horas // Resp.
 
 
 39. La batería de la figura 2 - 15 está especficada en 81 Ah a 5° C ¿ Cuál es el tiempo de vida esperando ( en horas ) con un consumo de corriente de 5 A a -15° C?
